@@ -1,0 +1,17 @@
+{
+  "articol": "290",
+  "articol_title": "Cursul de schimb valutar",
+  "titlu_id": "VII",
+  "titlu_name": "Titlul VII - Taxa pe valoarea adăugată",
+  "capitol_id": "VII",
+  "capitol_name": "Capitolul VII - Baza de impozitare",
+  "sectiune_id": "",
+  "sectiune_name": "",
+  "section_path": "Titlul VII > Cap. VII > Art. 290",
+  "text": "(1) Dacă elementele folosite la stabilirea bazei de impozitare a unui import de bunuri se exprimă în valută, cursul de schimb valutar se stabilește conform prevederilor europene care reglementează calculul valorii în vamă.",
+  "norme_text": "(2) Dacă elementele folosite pentru stabilirea bazei de impozitare a unei operațiuni, alta decât importul de bunuri, se exprimă în valută, cursul de schimb care se aplică este ultimul curs de schimb comunicat de Banca Națională a României sau ultimul curs de schimb publicat de Banca Centrală Europeană ori cursul de schimb utilizat de banca prin care se efectuează decontările, valabil la data la care intervine exigibilitatea taxei pentru operațiunea în cauză, iar, în cazul operațiunilor supuse sistemului TVA la încasare prevăzut la art. 282 alin. (3) - (8), la data la care ar fi intervenit exigibilitatea taxei pentru operațiunea în cauză dacă nu ar fi fost supusă sistemului TVA la încasare. În situația în care se utilizează cursul de schimb publicat de Banca Centrală Europeană, conversia între monede, altele decât moneda euro, se realizează prin intermediul cursului de schimb al monedei euro pentru fiecare dintre monede. În contractele încheiate între părți trebuie menționat dacă pentru decontări va fi utilizat cursul de schimb al unei bănci comerciale, în caz contrar aplicându-se cursul de schimb comunicat de Banca Națională a României sau cursul de schimb publicat de Banca Centrală Europeană. Norme metodologice",
+  "cross_references": [
+    "art. 282"
+  ],
+  "is_abrogated": false
+}

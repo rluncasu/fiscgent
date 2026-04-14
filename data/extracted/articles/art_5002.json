@@ -1,0 +1,17 @@
+{
+  "articol": "5002",
+  "articol_title": "Cota de impozitare",
+  "titlu_id": "X1",
+  "titlu_name": "Titlul X1 - Impozitul special pe bunurile imobile și mobile de valoare mare",
+  "capitol_id": "",
+  "capitol_name": "",
+  "sectiune_id": "",
+  "sectiune_name": "",
+  "section_path": "Titlul X1 > Art. 5002",
+  "text": "Impozitul special pe bunurile imobile și mobile de valoare mare se calculează în funcție de încadrarea într-una dintre situațiile prevăzute la art. 5001, după cum urmează:\n\na) în cazul proprietăților reprezentând clădiri rezidențiale, prin aplicarea unei cote de 0,9% asupra diferenței dintre valoarea impozabilă a clădirii comunicată de către organul fiscal local și plafonul de 2.500.000 lei;\n\nb) în cazul proprietăților reprezentând autoturisme, prin aplicarea unei cote de 0,9% asupra diferenței dintre valoarea de achiziție și plafonul de 375.000 lei.",
+  "norme_text": "",
+  "cross_references": [
+    "art. 5001"
+  ],
+  "is_abrogated": false
+}

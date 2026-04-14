@@ -1,0 +1,381 @@
+{
+  "name": "Cod Fiscal ANAF",
+  "description": "Codul Fiscal al României (Legea 227/2015) cu Norme metodologice — extras publicație statică ANAF",
+  "wings": {
+    "wing_titlul_i_dispoziii_generale": {
+      "titlu_id": "I",
+      "name": "Titlul I - Dispoziții generale",
+      "capitole": [
+        {
+          "id": "I",
+          "name": "Capitolul I - Scopul și sfera de cuprindere a Codului fiscal"
+        },
+        {
+          "id": "II",
+          "name": "Capitolul II - Aplicarea și modificarea Codului fiscal"
+        },
+        {
+          "id": "III",
+          "name": "Capitolul III - Definiții"
+        },
+        {
+          "id": "IV",
+          "name": "Capitolul IV - Reguli de aplicare generală"
+        }
+      ]
+    },
+    "wing_titlul_ii_impozitul_pe_profit": {
+      "titlu_id": "II",
+      "name": "Titlul II - Impozitul pe profit",
+      "capitole": [
+        {
+          "id": "I",
+          "name": "Capitolul I - Dispoziții generale"
+        },
+        {
+          "id": "II",
+          "name": "Capitolul II - Calculul rezultatului fiscal"
+        },
+        {
+          "id": "III",
+          "name": "Capitolul III - Aspecte fiscale internaționale"
+        },
+        {
+          "id": "III1",
+          "name": "Capitolul III1 - Norme împotriva practicilor de evitare a obligațiilor fiscale care au incidență directă asupra funcționării pieței interne"
+        },
+        {
+          "id": "IV",
+          "name": "Capitolul IV - Plata impozitului și depunerea declarațiilor fiscale"
+        },
+        {
+          "id": "IV1",
+          "name": "Capitolul IV1 - Reguli privind consolidarea fiscală în domeniul impozitului pe profit"
+        },
+        {
+          "id": "V",
+          "name": "Capitolul V - Impozitul pe dividende"
+        },
+        {
+          "id": "VI",
+          "name": "Capitolul VI - Dispoziții tranzitorii"
+        }
+      ]
+    },
+    "wing_titlul_ii1_impozit_suplimentar": {
+      "titlu_id": "II1",
+      "name": "Titlul II1 - Impozit suplimentar",
+      "capitole": []
+    },
+    "wing_titlul_iii_impozitul_pe_veniturile_microntreprinderilor": {
+      "titlu_id": "III",
+      "name": "Titlul III - Impozitul pe veniturile microîntreprinderilor",
+      "capitole": []
+    },
+    "wing_titlul_iv_impozitul_pe_venit": {
+      "titlu_id": "IV",
+      "name": "Titlul IV - Impozitul pe venit",
+      "capitole": [
+        {
+          "id": "I",
+          "name": "Capitolul I - Dispoziții generale"
+        },
+        {
+          "id": "II",
+          "name": "Capitolul II - Venituri din activități independente"
+        },
+        {
+          "id": "II1",
+          "name": "Capitolul II1 - Venituri din drepturi de proprietate intelectuală"
+        },
+        {
+          "id": "III",
+          "name": "Capitolul III - Venituri din salarii și asimilate salariilor"
+        },
+        {
+          "id": "IV",
+          "name": "Capitolul IV - Venituri din cedarea folosinței bunurilor"
+        },
+        {
+          "id": "V",
+          "name": "Capitolul V - Venituri din investiții"
+        },
+        {
+          "id": "VI",
+          "name": "Capitolul VI - Venituri din pensii"
+        },
+        {
+          "id": "VII",
+          "name": "Capitolul VII - Venituri din activități agricole, silvicultură și piscicultură"
+        },
+        {
+          "id": "VIII",
+          "name": "Capitolul VIII - Venituri din premii și din jocuri de noroc"
+        },
+        {
+          "id": "IX",
+          "name": "Capitolul IX - Venituri din transferul proprietăților imobiliare din patrimoniul personal"
+        },
+        {
+          "id": "X",
+          "name": "Capitolul X - Venituri din alte surse"
+        },
+        {
+          "id": "XI",
+          "name": "Capitolul XI - Venitul net anual impozabil"
+        },
+        {
+          "id": "XII",
+          "name": "Capitolul XII - Proprietatea comună și asociațiile fără personalitate juridică"
+        },
+        {
+          "id": "XIII",
+          "name": "Capitolul XIII - Aspecte fiscale internaționale"
+        },
+        {
+          "id": "XIV",
+          "name": "Capitolul XIV - Obligații declarative ale plătitorilor de venituri cu reținere la sursă"
+        },
+        {
+          "id": "XV",
+          "name": "Capitolul XV - Dispoziții tranzitorii și finale"
+        }
+      ]
+    },
+    "wing_titlul_v_contribuii_sociale_obligatorii": {
+      "titlu_id": "V",
+      "name": "Titlul V - Contribuții sociale obligatorii",
+      "capitole": [
+        {
+          "id": "I",
+          "name": "Capitolul I - Dispoziții generale"
+        },
+        {
+          "id": "II",
+          "name": "Capitolul II - Contribuțiile de asigurări sociale datorate bugetului asigurărilor sociale de stat"
+        },
+        {
+          "id": "III",
+          "name": "Capitolul III - Contribuția de asigurări sociale de sănătate datorată Fondului național unic de asigurări sociale de sănătate"
+        },
+        {
+          "id": "IV",
+          "name": "Capitolul IV - \\*\\*\\* A B R O G A T \\*\\*\\*"
+        },
+        {
+          "id": "V",
+          "name": "Capitolul V - \\*\\*\\* A B R O G A T \\*\\*\\*"
+        },
+        {
+          "id": "VI",
+          "name": "Capitolul VI - \\*\\*\\* A B R O G A T \\*\\*\\*"
+        },
+        {
+          "id": "VII",
+          "name": "Capitolul VII - \\*\\*\\* A B R O G A T \\*\\*\\*"
+        },
+        {
+          "id": "VIII",
+          "name": "Capitolul VIII - Prevederi comune în cazul persoanelor fizice care realizează venituri din salarii sau asimilate salariilor și/sau din activități independente, atât în România, cât și pe teritoriul unui stat membru al Uniunii Europene, al unui stat membru al Spațiului Economic European sau al Confederației Elvețiene pentru care sunt incidente prevederile legislației europene aplicabile în domeniul securității sociale"
+        },
+        {
+          "id": "IX",
+          "name": "Capitolul IX - Contribuția asiguratorie pentru muncă"
+        },
+        {
+          "id": "X",
+          "name": "Capitolul X - Dispoziții tranzitorii"
+        }
+      ]
+    },
+    "wing_titlul_vi_impozitul_pe_veniturile_obinute_din_romnia_de": {
+      "titlu_id": "VI",
+      "name": "Titlul VI - Impozitul pe veniturile obținute din România de nerezidenți și impozitul pe reprezentanțele firmelor străine înființate în România",
+      "capitole": [
+        {
+          "id": "I",
+          "name": "Capitolul I - Impozitul pe veniturile obținute din România de nerezidenți"
+        },
+        {
+          "id": "II",
+          "name": "Capitolul II - Asocieri/Entități care desfășoară activitate/obține venituri în/din România"
+        },
+        {
+          "id": "III",
+          "name": "Capitolul III - Impozitul pe reprezentanțe"
+        },
+        {
+          "id": "IV",
+          "name": "Capitolul IV - \\*\\*\\* A B R O G A T \\*\\*\\*"
+        },
+        {
+          "id": "V",
+          "name": "Capitolul V - Redevențe și dobânzi la întreprinderi asociate"
+        }
+      ]
+    },
+    "wing_titlul_vii_taxa_pe_valoarea_adugat": {
+      "titlu_id": "VII",
+      "name": "Titlul VII - Taxa pe valoarea adăugată",
+      "capitole": [
+        {
+          "id": "I",
+          "name": "Capitolul I - Definiții"
+        },
+        {
+          "id": "II",
+          "name": "Capitolul II - Operațiuni impozabile"
+        },
+        {
+          "id": "III",
+          "name": "Capitolul III - Persoane impozabile"
+        },
+        {
+          "id": "IV",
+          "name": "Capitolul IV - Operațiuni cuprinse în sfera de aplicare a taxei"
+        },
+        {
+          "id": "V",
+          "name": "Capitolul V - Locul operațiunilor cuprinse în sfera de aplicare a taxei"
+        },
+        {
+          "id": "VI",
+          "name": "Capitolul VI - Faptul generator și exigibilitatea taxei pe valoarea adăugată"
+        },
+        {
+          "id": "VII",
+          "name": "Capitolul VII - Baza de impozitare"
+        },
+        {
+          "id": "VIII",
+          "name": "Capitolul VIII - Cotele de taxă"
+        },
+        {
+          "id": "IX",
+          "name": "Capitolul IX - Operațiuni scutite de taxă"
+        },
+        {
+          "id": "X",
+          "name": "Capitolul X - Regimul deducerilor"
+        },
+        {
+          "id": "XI",
+          "name": "Capitolul XI - Persoanele obligate la plata taxei"
+        },
+        {
+          "id": "XII",
+          "name": "Capitolul XII - Regimuri speciale"
+        },
+        {
+          "id": "XIII",
+          "name": "Capitolul XIII - Obligații"
+        },
+        {
+          "id": "XIV",
+          "name": "Capitolul XIV - Dispoziții comune"
+        },
+        {
+          "id": "XV",
+          "name": "Capitolul XV - Dispoziții tranzitorii"
+        }
+      ]
+    },
+    "wing_titlul_viii_accize_i_alte_taxe_speciale": {
+      "titlu_id": "VIII",
+      "name": "Titlul VIII - Accize și alte taxe speciale",
+      "capitole": [
+        {
+          "id": "I",
+          "name": "Capitolul I - Regimul accizelor armonizate"
+        },
+        {
+          "id": "II",
+          "name": "Capitolul II - Regimul accizelor nearmonizate"
+        },
+        {
+          "id": "III",
+          "name": "Capitolul III - Contravenții și sancțiuni"
+        },
+        {
+          "id": "IV",
+          "name": "Capitolul IV - Infracțiuni"
+        }
+      ]
+    },
+    "wing_titlul_ix_impozite_i_taxe_locale": {
+      "titlu_id": "IX",
+      "name": "Titlul IX - Impozite și taxe locale",
+      "capitole": [
+        {
+          "id": "I",
+          "name": "Capitolul I - Dispoziții generale"
+        },
+        {
+          "id": "II",
+          "name": "Capitolul II - Impozitul pe clădiri și taxa pe clădiri"
+        },
+        {
+          "id": "III",
+          "name": "Capitolul III - Impozitul pe teren și taxa pe teren"
+        },
+        {
+          "id": "IV",
+          "name": "Capitolul IV - Impozitul pe mijloacele de transport"
+        },
+        {
+          "id": "V",
+          "name": "Capitolul V - Taxa pentru eliberarea certificatelor, avizelor și a autorizațiilor"
+        },
+        {
+          "id": "VI",
+          "name": "Capitolul VI - Taxa pentru folosirea mijloacelor de reclamă și publicitate"
+        },
+        {
+          "id": "VII",
+          "name": "Capitolul VII - Impozitul pe spectacole"
+        },
+        {
+          "id": "VIII",
+          "name": "Capitolul VIII - Taxe speciale"
+        },
+        {
+          "id": "IX",
+          "name": "Capitolul IX - Alte taxe locale"
+        },
+        {
+          "id": "X",
+          "name": "Capitolul X - Alte dispoziții comune"
+        },
+        {
+          "id": "XI",
+          "name": "Capitolul XI - Sancțiuni"
+        },
+        {
+          "id": "XII",
+          "name": "Capitolul XII - Dispoziții finale"
+        }
+      ]
+    },
+    "wing_titlul_x_impozitul_pe_construcii": {
+      "titlu_id": "X",
+      "name": "Titlul X - Impozitul pe construcții",
+      "capitole": []
+    },
+    "wing_titlul_x1_impozitul_special_pe_bunurile_imobile_i_mobile_de": {
+      "titlu_id": "X1",
+      "name": "Titlul X1 - Impozitul special pe bunurile imobile și mobile de valoare mare",
+      "capitole": []
+    },
+    "wing_titlul_xi_dispoziii_finale": {
+      "titlu_id": "XI",
+      "name": "Titlul XI - Dispoziții finale",
+      "capitole": []
+    }
+  },
+  "stats": {
+    "total_articles": 595,
+    "total_drawers": 838,
+    "abrogated": 132,
+    "with_norme": 243
+  }
+}

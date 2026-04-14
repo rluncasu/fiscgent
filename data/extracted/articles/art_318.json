@@ -1,0 +1,20 @@
+{
+  "articol": "318",
+  "articol_title": "Prevederi generale referitoare la înregistrare",
+  "titlu_id": "VII",
+  "titlu_name": "Titlul VII - Taxa pe valoarea adăugată",
+  "capitol_id": "XIII",
+  "capitol_name": "Capitolul XIII - Obligații",
+  "sectiune_id": "",
+  "sectiune_name": "",
+  "section_path": "Titlul VII > Cap. XIII > Art. 318",
+  "text": "(1) Fiecare număr de identificare în scopuri de TVA cuprinde un prefix în conformitate cu codulISO 3166 - alfa 2 - prin care se identifică fiecare stat membru ce a atribuit respectivul număr. Cu toate acestea, Grecia poate utiliza prefixul «EL». Pentru Irlanda de Nord se utilizează prefixul «XI». Codul de înregistrare în scopuri de TVA, atribuit conform art. 316 și 317, are prefixul RO, conform Standardului internațional ISO 3166 - alpha 2.\n\n(2) Anularea înregistrării în scopuri de TVA a unei persoane nu o exonerează de răspunderea care îi revine, conform prezentului titlu, pentru orice acțiune anterioară datei anulării și de obligația de a solicita înregistrarea în condițiile prezentului titlu.",
+  "norme_text": "(3) Prin normele metodologice se stabilesc cazurile în care persoanele nestabilite în România care sunt obligate la plata TVA în România conform art. 307 alin. (1) pot fi scutite de înregistrarea în scopuri de TVA în România. Norme metodologice\n\n(4) Persoanele înregistrate:\n\na) conform art. 316 vor comunica codul de înregistrare în scopuri de TVA tuturor furnizorilor/prestatorilor sau clienților;\n\nb) conform art. 317 vor comunica codul de înregistrare în scopuri de TVA:\n\n1\\. furnizorului/prestatorului, atunci când au obligația plății taxei conform art. 307 alin. (2) - (6) și art. 308 ;\n\n2\\. beneficiarului, persoană impozabilă din alt stat membru, către care prestează servicii pentru care acesta este obligat la plata taxei conform echivalentului din alt stat membru al art. 307 alin. (2).",
+  "cross_references": [
+    "art. 307",
+    "art. 308",
+    "art. 316",
+    "art. 317"
+  ],
+  "is_abrogated": false
+}

@@ -1,0 +1,23 @@
+{
+  "articol": "29",
+  "articol_title": "Contracte de leasing",
+  "titlu_id": "II",
+  "titlu_name": "Titlul II - Impozitul pe profit",
+  "capitol_id": "II",
+  "capitol_name": "Capitolul II - Calculul rezultatului fiscal",
+  "sectiune_id": "",
+  "sectiune_name": "",
+  "section_path": "Titlul II > Cap. II > Art. 29",
+  "text": "(1) În cazul leasingului financiar utilizatorul este tratat din punct de vedere fiscal ca proprietar, în timp ce, în cazul leasingului operațional, locatorul are această calitate.\n\n(2) Amortizarea bunului care face obiectul unui contract de leasing se face de către utilizator, în cazul leasingului financiar, și de către locator, în cazul leasingului operațional, cheltuielile fiind deductibile, potrivit art. 28.\n\n(3) În cazul leasingului financiar utilizatorul deduce dobânda, iar în cazul leasingului operațional locatarul deduce chiria (rata de leasing), potrivit prevederilor prezentului titlu.",
+  "norme_text": "Norme metodologice\n\n(4) Prin excepție de la prevederile alin. (1) - (3), contribuabilii care aplică reglementările contabile conforme cu Standardele internaționale de raportare financiară, pentru determinarea rezultatului fiscal, vor avea în vedere următoarele reguli:\n\na) în cazul în care contractul de leasing transferă dreptul de proprietate asupra activului-suport la locatar până la încheierea duratei contractului de leasing sau costul activului aferent dreptului de utilizare reflectă faptul că locatarul va exercita o opțiune de cumpărare, locatarul deduce cheltuielile cu amortizarea activului aferent dreptului de utilizare pe durata activului-suport, determinată potrivit art. 28, cu respectarea și a celorlalte condiții prevăzute în cadrul art. 28;\n\nb) în cazul contractelor de leasing care nu îndeplinesc condiția prevăzută la lit. a), cheltuielile cu amortizarea activului aferent dreptului de utilizare se deduc astfel:\n\n1\\. pe durata contractului de leasing, în situația în care locatarul amortizează activul respectiv pe aceeași durată, potrivit reglementărilor contabile aplicabile;\n\n2\\. pe durata activului-suport determinată potrivit art. 28, în situația în care locatarul amortizează activul respectiv pe durata de utilizare economică a activului-suport, potrivit reglementărilor contabile aplicabile. În cazul în care activele-suport sunt de natura celor prevăzute la art. 28 alin. (4), cu excepția celor prevăzute la art. 28 alin. (4) lit. c), cheltuielile cu amortizarea activului aferent dreptului de utilizare se deduc pe durata contractului de leasing;\n\nc) pentru deducerea cheltuielilor privind dobânzile, în cazurile prevăzute la lit. a) și b), se aplică prevederile art. 402;\n\nd) în situația în care activele-suport care fac obiectul contractelor prevăzute la lit. a) reprezintă active de natura celor prevăzute la art. 22 alin. (1), scutirea de impozit pe profit a profitului reinvestit, potrivit art. 22, se aplică la valoarea dreptului de utilizare a activelor respective;\n\ne) pentru deducerea cheltuielilor prevăzute la lit. b) se aplică și prevederile art. 25 alin. (1) și (3) lit. l), după caz;\n\nf) în cazul în care se efectuează reevaluarea activului aferent dreptului de utilizare sunt aplicabile prevederile art. 7 pct. 44 lit. c), art. 23 lit. g), art. 25 alin. (4) lit. l), art. 26 alin. (6) și (7);\n\ng) pentru clasificarea contractelor de leasing, locatarul nu aplică prevederile art. 7 pct. 7 și 8, art. 28 alin. (4) și (14).\n\nh) pentru deducerea diferențelor de curs valutar se aplică prevederile art. 402, cu excepția vehiculelor rutiere motorizate, unde se aplică prevederile art. 25 alin. (3) lit. l);\n\n(5) În cazul contractelor de leasing pe termen scurt și în cazul contractelor de leasing în care activul-suport are o valoare mică, pentru care locatarul optează să nu aplice dispozițiile privind recunoașterea contractelor de leasing, potrivit reglementărilor contabile conforme cu Standardele internaționale de raportare financiară, cheltuielile aferente acestor contracte, reprezintă cheltuieli deductibile pentru determinarea rezultatului fiscal.",
+  "cross_references": [
+    "art. 22",
+    "art. 23",
+    "art. 25",
+    "art. 26",
+    "art. 28",
+    "art. 402",
+    "art. 7"
+  ],
+  "is_abrogated": false
+}

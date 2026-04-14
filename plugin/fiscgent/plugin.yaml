@@ -1,0 +1,11 @@
+name: fiscgent
+version: 1.0.0
+description: >
+  Romanian Fiscal Code expert — precise article lookup,
+  automatic context injection, and structured legal responses.
+  Uses a MemPalace-backed knowledge store over Codul Fiscal cu Norme
+  metodologice (extras ANAF; denumiri URL pot include «2023»).
+provides_tools:
+  - cod_fiscal_lookup
+provides_hooks:
+  - pre_llm_call

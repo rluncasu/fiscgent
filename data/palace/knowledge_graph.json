@@ -1,0 +1,9652 @@
+[
+  {
+    "subject": "art_1",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_1",
+    "predicate": "references",
+    "object": "art_230"
+  },
+  {
+    "subject": "art_5",
+    "predicate": "references",
+    "object": "art_111"
+  },
+  {
+    "subject": "art_5",
+    "predicate": "references",
+    "object": "art_180"
+  },
+  {
+    "subject": "art_5",
+    "predicate": "references",
+    "object": "art_314"
+  },
+  {
+    "subject": "art_5",
+    "predicate": "references",
+    "object": "art_315"
+  },
+  {
+    "subject": "art_5",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_5",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_7",
+    "predicate": "references",
+    "object": "art_230"
+  },
+  {
+    "subject": "art_7",
+    "predicate": "references",
+    "object": "art_32"
+  },
+  {
+    "subject": "art_8",
+    "predicate": "references",
+    "object": "art_33"
+  },
+  {
+    "subject": "art_8",
+    "predicate": "references",
+    "object": "art_5"
+  },
+  {
+    "subject": "art_81",
+    "predicate": "references",
+    "object": "art_147"
+  },
+  {
+    "subject": "art_81",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_11",
+    "predicate": "references",
+    "object": "art_287"
+  },
+  {
+    "subject": "art_11",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_11",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_11",
+    "predicate": "references",
+    "object": "art_324"
+  },
+  {
+    "subject": "art_12",
+    "predicate": "references",
+    "object": "art_99"
+  },
+  {
+    "subject": "art_13",
+    "predicate": "references",
+    "object": "art_12"
+  },
+  {
+    "subject": "art_13",
+    "predicate": "references",
+    "object": "art_407"
+  },
+  {
+    "subject": "art_13",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_13",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_14",
+    "predicate": "references",
+    "object": "art_12"
+  },
+  {
+    "subject": "art_14",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_15",
+    "predicate": "references",
+    "object": "art_17"
+  },
+  {
+    "subject": "art_15",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_16",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_16",
+    "predicate": "references",
+    "object": "art_8"
+  },
+  {
+    "subject": "art_16",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_17",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_17",
+    "predicate": "defines_rate",
+    "object": "16%"
+  },
+  {
+    "subject": "art_18",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_18",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_18",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_181",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_182",
+    "predicate": "references",
+    "object": "art_180"
+  },
+  {
+    "subject": "art_182",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_182",
+    "predicate": "defines_rate",
+    "object": "25%"
+  },
+  {
+    "subject": "art_183",
+    "predicate": "references",
+    "object": "art_180"
+  },
+  {
+    "subject": "art_183",
+    "predicate": "references",
+    "object": "art_1821"
+  },
+  {
+    "subject": "art_183",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_19",
+    "predicate": "references",
+    "object": "art_23"
+  },
+  {
+    "subject": "art_19",
+    "predicate": "references",
+    "object": "art_25"
+  },
+  {
+    "subject": "art_19",
+    "predicate": "references",
+    "object": "art_31"
+  },
+  {
+    "subject": "art_19",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_20",
+    "predicate": "references",
+    "object": "art_31"
+  },
+  {
+    "subject": "art_20",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_201",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_21",
+    "predicate": "references",
+    "object": "art_23"
+  },
+  {
+    "subject": "art_21",
+    "predicate": "references",
+    "object": "art_25"
+  },
+  {
+    "subject": "art_21",
+    "predicate": "references",
+    "object": "art_26"
+  },
+  {
+    "subject": "art_21",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_22",
+    "predicate": "references",
+    "object": "art_16"
+  },
+  {
+    "subject": "art_22",
+    "predicate": "references",
+    "object": "art_28"
+  },
+  {
+    "subject": "art_22",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_22",
+    "predicate": "references",
+    "object": "art_52"
+  },
+  {
+    "subject": "art_22",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_221",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_23",
+    "predicate": "references",
+    "object": "art_201"
+  },
+  {
+    "subject": "art_23",
+    "predicate": "references",
+    "object": "art_24"
+  },
+  {
+    "subject": "art_23",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_23",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_24",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_24",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_24",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_10"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_11"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_13"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_181"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_23"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_26"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_28"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_42"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_461"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "references",
+    "object": "art_92"
+  },
+  {
+    "subject": "art_25",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_251",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_26",
+    "predicate": "references",
+    "object": "art_22"
+  },
+  {
+    "subject": "art_26",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_26",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_27",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_28",
+    "predicate": "references",
+    "object": "art_16"
+  },
+  {
+    "subject": "art_28",
+    "predicate": "references",
+    "object": "art_25"
+  },
+  {
+    "subject": "art_28",
+    "predicate": "references",
+    "object": "art_32"
+  },
+  {
+    "subject": "art_28",
+    "predicate": "references",
+    "object": "art_34"
+  },
+  {
+    "subject": "art_28",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_28",
+    "predicate": "references",
+    "object": "art_8"
+  },
+  {
+    "subject": "art_28",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_29",
+    "predicate": "references",
+    "object": "art_22"
+  },
+  {
+    "subject": "art_29",
+    "predicate": "references",
+    "object": "art_23"
+  },
+  {
+    "subject": "art_29",
+    "predicate": "references",
+    "object": "art_25"
+  },
+  {
+    "subject": "art_29",
+    "predicate": "references",
+    "object": "art_26"
+  },
+  {
+    "subject": "art_29",
+    "predicate": "references",
+    "object": "art_28"
+  },
+  {
+    "subject": "art_29",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_29",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_29",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_31",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_32",
+    "predicate": "references",
+    "object": "art_26"
+  },
+  {
+    "subject": "art_32",
+    "predicate": "references",
+    "object": "art_28"
+  },
+  {
+    "subject": "art_32",
+    "predicate": "references",
+    "object": "art_31"
+  },
+  {
+    "subject": "art_32",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_32",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_32",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_32",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_32",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_32",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_32",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_33",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_34",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_35",
+    "predicate": "references",
+    "object": "art_23"
+  },
+  {
+    "subject": "art_35",
+    "predicate": "references",
+    "object": "art_24"
+  },
+  {
+    "subject": "art_35",
+    "predicate": "references",
+    "object": "art_43"
+  },
+  {
+    "subject": "art_35",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_36",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_37",
+    "predicate": "references",
+    "object": "art_8"
+  },
+  {
+    "subject": "art_37",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_38",
+    "predicate": "references",
+    "object": "art_23"
+  },
+  {
+    "subject": "art_38",
+    "predicate": "references",
+    "object": "art_41"
+  },
+  {
+    "subject": "art_38",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_39",
+    "predicate": "references",
+    "object": "art_17"
+  },
+  {
+    "subject": "art_39",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_40",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_401",
+    "predicate": "references",
+    "object": "art_15"
+  },
+  {
+    "subject": "art_401",
+    "predicate": "references",
+    "object": "art_189"
+  },
+  {
+    "subject": "art_401",
+    "predicate": "references",
+    "object": "art_19"
+  },
+  {
+    "subject": "art_401",
+    "predicate": "references",
+    "object": "art_201"
+  },
+  {
+    "subject": "art_401",
+    "predicate": "references",
+    "object": "art_329"
+  },
+  {
+    "subject": "art_401",
+    "predicate": "references",
+    "object": "art_371"
+  },
+  {
+    "subject": "art_401",
+    "predicate": "references",
+    "object": "art_395"
+  },
+  {
+    "subject": "art_401",
+    "predicate": "references",
+    "object": "art_404"
+  },
+  {
+    "subject": "art_401",
+    "predicate": "references",
+    "object": "art_405"
+  },
+  {
+    "subject": "art_401",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_402",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_402",
+    "predicate": "references",
+    "object": "art_401"
+  },
+  {
+    "subject": "art_402",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_403",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_404",
+    "predicate": "references",
+    "object": "art_395"
+  },
+  {
+    "subject": "art_404",
+    "predicate": "references",
+    "object": "art_401"
+  },
+  {
+    "subject": "art_404",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_405",
+    "predicate": "references",
+    "object": "art_329"
+  },
+  {
+    "subject": "art_405",
+    "predicate": "references",
+    "object": "art_3351"
+  },
+  {
+    "subject": "art_405",
+    "predicate": "references",
+    "object": "art_401"
+  },
+  {
+    "subject": "art_405",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_406",
+    "predicate": "references",
+    "object": "art_401"
+  },
+  {
+    "subject": "art_406",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_406",
+    "predicate": "references",
+    "object": "art_4021"
+  },
+  {
+    "subject": "art_406",
+    "predicate": "references",
+    "object": "art_403"
+  },
+  {
+    "subject": "art_406",
+    "predicate": "references",
+    "object": "art_404"
+  },
+  {
+    "subject": "art_406",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_407",
+    "predicate": "references",
+    "object": "art_401"
+  },
+  {
+    "subject": "art_407",
+    "predicate": "references",
+    "object": "art_4021"
+  },
+  {
+    "subject": "art_407",
+    "predicate": "references",
+    "object": "art_404"
+  },
+  {
+    "subject": "art_407",
+    "predicate": "references",
+    "object": "art_405"
+  },
+  {
+    "subject": "art_407",
+    "predicate": "references",
+    "object": "art_406"
+  },
+  {
+    "subject": "art_407",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_408",
+    "predicate": "references",
+    "object": "art_401"
+  },
+  {
+    "subject": "art_408",
+    "predicate": "references",
+    "object": "art_404"
+  },
+  {
+    "subject": "art_408",
+    "predicate": "references",
+    "object": "art_405"
+  },
+  {
+    "subject": "art_408",
+    "predicate": "references",
+    "object": "art_406"
+  },
+  {
+    "subject": "art_408",
+    "predicate": "references",
+    "object": "art_407"
+  },
+  {
+    "subject": "art_408",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_409",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_409",
+    "predicate": "references",
+    "object": "art_406"
+  },
+  {
+    "subject": "art_409",
+    "predicate": "references",
+    "object": "art_407"
+  },
+  {
+    "subject": "art_409",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4010",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_41",
+    "predicate": "references",
+    "object": "art_13"
+  },
+  {
+    "subject": "art_41",
+    "predicate": "references",
+    "object": "art_15"
+  },
+  {
+    "subject": "art_41",
+    "predicate": "references",
+    "object": "art_16"
+  },
+  {
+    "subject": "art_41",
+    "predicate": "references",
+    "object": "art_21"
+  },
+  {
+    "subject": "art_41",
+    "predicate": "references",
+    "object": "art_33"
+  },
+  {
+    "subject": "art_41",
+    "predicate": "references",
+    "object": "art_403"
+  },
+  {
+    "subject": "art_41",
+    "predicate": "references",
+    "object": "art_42"
+  },
+  {
+    "subject": "art_41",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_42",
+    "predicate": "references",
+    "object": "art_16"
+  },
+  {
+    "subject": "art_42",
+    "predicate": "references",
+    "object": "art_25"
+  },
+  {
+    "subject": "art_42",
+    "predicate": "references",
+    "object": "art_403"
+  },
+  {
+    "subject": "art_42",
+    "predicate": "references",
+    "object": "art_41"
+  },
+  {
+    "subject": "art_42",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_421",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_422",
+    "predicate": "references",
+    "object": "art_421"
+  },
+  {
+    "subject": "art_422",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_423",
+    "predicate": "references",
+    "object": "art_421"
+  },
+  {
+    "subject": "art_423",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_424",
+    "predicate": "references",
+    "object": "art_421"
+  },
+  {
+    "subject": "art_424",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_425",
+    "predicate": "references",
+    "object": "art_355"
+  },
+  {
+    "subject": "art_425",
+    "predicate": "references",
+    "object": "art_426"
+  },
+  {
+    "subject": "art_425",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_426",
+    "predicate": "references",
+    "object": "art_355"
+  },
+  {
+    "subject": "art_426",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_426",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_426",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_427",
+    "predicate": "references",
+    "object": "art_355"
+  },
+  {
+    "subject": "art_427",
+    "predicate": "references",
+    "object": "art_425"
+  },
+  {
+    "subject": "art_427",
+    "predicate": "references",
+    "object": "art_426"
+  },
+  {
+    "subject": "art_427",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_428",
+    "predicate": "references",
+    "object": "art_355"
+  },
+  {
+    "subject": "art_428",
+    "predicate": "references",
+    "object": "art_399"
+  },
+  {
+    "subject": "art_428",
+    "predicate": "references",
+    "object": "art_429"
+  },
+  {
+    "subject": "art_428",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_429",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_429",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_429",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_4210",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_4211",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_43",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_43",
+    "predicate": "defines_rate",
+    "object": "16%"
+  },
+  {
+    "subject": "art_43",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_44",
+    "predicate": "references",
+    "object": "art_31"
+  },
+  {
+    "subject": "art_44",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_16"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_181"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_183"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_22"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_25"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_26"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_28"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_29"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_37"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_41"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_42"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_429"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_461"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "references",
+    "object": "art_462"
+  },
+  {
+    "subject": "art_45",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_46",
+    "predicate": "references",
+    "object": "art_229"
+  },
+  {
+    "subject": "art_46",
+    "predicate": "references",
+    "object": "art_24"
+  },
+  {
+    "subject": "art_46",
+    "predicate": "references",
+    "object": "art_26"
+  },
+  {
+    "subject": "art_46",
+    "predicate": "references",
+    "object": "art_33"
+  },
+  {
+    "subject": "art_46",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_profit"
+  },
+  {
+    "subject": "art_461",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_461",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_462",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_47",
+    "predicate": "references",
+    "object": "art_48"
+  },
+  {
+    "subject": "art_47",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_48",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_48",
+    "predicate": "references",
+    "object": "art_52"
+  },
+  {
+    "subject": "art_48",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_49",
+    "predicate": "references",
+    "object": "art_53"
+  },
+  {
+    "subject": "art_49",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_50",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_51",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_51",
+    "predicate": "defines_rate",
+    "object": "1%"
+  },
+  {
+    "subject": "art_52",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_52",
+    "predicate": "references",
+    "object": "art_54"
+  },
+  {
+    "subject": "art_52",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_52",
+    "predicate": "defines_rate",
+    "object": "25%"
+  },
+  {
+    "subject": "art_53",
+    "predicate": "references",
+    "object": "art_24"
+  },
+  {
+    "subject": "art_53",
+    "predicate": "references",
+    "object": "art_52"
+  },
+  {
+    "subject": "art_53",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_54",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_54",
+    "predicate": "references",
+    "object": "art_48"
+  },
+  {
+    "subject": "art_54",
+    "predicate": "references",
+    "object": "art_52"
+  },
+  {
+    "subject": "art_54",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_541",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_541",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_55",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_55",
+    "predicate": "references",
+    "object": "art_52"
+  },
+  {
+    "subject": "art_55",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_56",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_57",
+    "predicate": "references",
+    "object": "art_28"
+  },
+  {
+    "subject": "art_57",
+    "predicate": "references",
+    "object": "art_43"
+  },
+  {
+    "subject": "art_57",
+    "predicate": "belongs_to",
+    "object": "impozit_microintreprinderi"
+  },
+  {
+    "subject": "art_58",
+    "predicate": "references",
+    "object": "art_129"
+  },
+  {
+    "subject": "art_58",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_59",
+    "predicate": "references",
+    "object": "art_230"
+  },
+  {
+    "subject": "art_59",
+    "predicate": "references",
+    "object": "art_58"
+  },
+  {
+    "subject": "art_59",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_59",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_60",
+    "predicate": "references",
+    "object": "art_105"
+  },
+  {
+    "subject": "art_60",
+    "predicate": "references",
+    "object": "art_111"
+  },
+  {
+    "subject": "art_60",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_60",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_60",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_601",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "references",
+    "object": "art_103"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "references",
+    "object": "art_108"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "references",
+    "object": "art_111"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "references",
+    "object": "art_114"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "references",
+    "object": "art_67"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "references",
+    "object": "art_70"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "references",
+    "object": "art_83"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "references",
+    "object": "art_91"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "references",
+    "object": "art_99"
+  },
+  {
+    "subject": "art_61",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_62",
+    "predicate": "references",
+    "object": "art_111"
+  },
+  {
+    "subject": "art_62",
+    "predicate": "references",
+    "object": "art_114"
+  },
+  {
+    "subject": "art_62",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_63",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_64",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_64",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_65",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_66",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_67",
+    "predicate": "references",
+    "object": "art_683"
+  },
+  {
+    "subject": "art_67",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_671",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_68",
+    "predicate": "references",
+    "object": "art_25"
+  },
+  {
+    "subject": "art_68",
+    "predicate": "references",
+    "object": "art_27"
+  },
+  {
+    "subject": "art_68",
+    "predicate": "references",
+    "object": "art_28"
+  },
+  {
+    "subject": "art_68",
+    "predicate": "references",
+    "object": "art_681"
+  },
+  {
+    "subject": "art_68",
+    "predicate": "references",
+    "object": "art_961"
+  },
+  {
+    "subject": "art_68",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_681",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_681",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_681",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_682",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_682",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_682",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_682",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_683",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_683",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_683",
+    "predicate": "references",
+    "object": "art_83"
+  },
+  {
+    "subject": "art_683",
+    "predicate": "references",
+    "object": "art_85"
+  },
+  {
+    "subject": "art_683",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_683",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_69",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_69",
+    "predicate": "references",
+    "object": "art_67"
+  },
+  {
+    "subject": "art_69",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_69",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_691",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_691",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_691",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_692",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_692",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_692",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_693",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_70",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_71",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_72",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_721",
+    "predicate": "references",
+    "object": "art_72"
+  },
+  {
+    "subject": "art_721",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_73",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_73",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_73",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_74",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_75",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_76",
+    "predicate": "references",
+    "object": "art_25"
+  },
+  {
+    "subject": "art_76",
+    "predicate": "references",
+    "object": "art_5"
+  },
+  {
+    "subject": "art_76",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_76",
+    "predicate": "references",
+    "object": "art_77"
+  },
+  {
+    "subject": "art_76",
+    "predicate": "references",
+    "object": "art_80"
+  },
+  {
+    "subject": "art_76",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_77",
+    "predicate": "references",
+    "object": "art_104"
+  },
+  {
+    "subject": "art_77",
+    "predicate": "references",
+    "object": "art_58"
+  },
+  {
+    "subject": "art_77",
+    "predicate": "references",
+    "object": "art_59"
+  },
+  {
+    "subject": "art_77",
+    "predicate": "references",
+    "object": "art_62"
+  },
+  {
+    "subject": "art_77",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_78",
+    "predicate": "references",
+    "object": "art_1231"
+  },
+  {
+    "subject": "art_78",
+    "predicate": "references",
+    "object": "art_77"
+  },
+  {
+    "subject": "art_78",
+    "predicate": "references",
+    "object": "art_82"
+  },
+  {
+    "subject": "art_78",
+    "predicate": "references",
+    "object": "art_961"
+  },
+  {
+    "subject": "art_78",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_78",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_78",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_78",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_79",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_80",
+    "predicate": "references",
+    "object": "art_147"
+  },
+  {
+    "subject": "art_80",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_82",
+    "predicate": "references",
+    "object": "art_1231"
+  },
+  {
+    "subject": "art_82",
+    "predicate": "references",
+    "object": "art_78"
+  },
+  {
+    "subject": "art_82",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_82",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_83",
+    "predicate": "references",
+    "object": "art_683"
+  },
+  {
+    "subject": "art_83",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_84",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_84",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_841",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_841",
+    "predicate": "references",
+    "object": "art_132"
+  },
+  {
+    "subject": "art_841",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_841",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_85",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_85",
+    "predicate": "references",
+    "object": "art_683"
+  },
+  {
+    "subject": "art_85",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_85",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_86",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_87",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_88",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_89",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_90",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_91",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_92",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_92",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_93",
+    "predicate": "references",
+    "object": "art_32"
+  },
+  {
+    "subject": "art_93",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_93",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_94",
+    "predicate": "references",
+    "object": "art_32"
+  },
+  {
+    "subject": "art_94",
+    "predicate": "references",
+    "object": "art_961"
+  },
+  {
+    "subject": "art_94",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_95",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_951",
+    "predicate": "references",
+    "object": "art_95"
+  },
+  {
+    "subject": "art_951",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_96",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_96",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_961",
+    "predicate": "references",
+    "object": "art_132"
+  },
+  {
+    "subject": "art_961",
+    "predicate": "references",
+    "object": "art_94"
+  },
+  {
+    "subject": "art_961",
+    "predicate": "references",
+    "object": "art_97"
+  },
+  {
+    "subject": "art_961",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_97",
+    "predicate": "references",
+    "object": "art_94"
+  },
+  {
+    "subject": "art_97",
+    "predicate": "references",
+    "object": "art_961"
+  },
+  {
+    "subject": "art_97",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_97",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_97",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_97",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_971",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_971",
+    "predicate": "references",
+    "object": "art_97"
+  },
+  {
+    "subject": "art_971",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_971",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_98",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_99",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_100",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_101",
+    "predicate": "references",
+    "object": "art_100"
+  },
+  {
+    "subject": "art_101",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_101",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_1011",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_102",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_103",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_104",
+    "predicate": "references",
+    "object": "art_103"
+  },
+  {
+    "subject": "art_104",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_104",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_105",
+    "predicate": "references",
+    "object": "art_103"
+  },
+  {
+    "subject": "art_105",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_106",
+    "predicate": "references",
+    "object": "art_105"
+  },
+  {
+    "subject": "art_106",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_106",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_107",
+    "predicate": "references",
+    "object": "art_103"
+  },
+  {
+    "subject": "art_107",
+    "predicate": "references",
+    "object": "art_105"
+  },
+  {
+    "subject": "art_107",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_107",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_107",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_107",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_108",
+    "predicate": "references",
+    "object": "art_62"
+  },
+  {
+    "subject": "art_108",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_109",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_110",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_110",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_111",
+    "predicate": "references",
+    "object": "art_13"
+  },
+  {
+    "subject": "art_111",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_111",
+    "predicate": "defines_rate",
+    "object": "3%"
+  },
+  {
+    "subject": "art_111",
+    "predicate": "defines_rate",
+    "object": "1%"
+  },
+  {
+    "subject": "art_112",
+    "predicate": "references",
+    "object": "art_111"
+  },
+  {
+    "subject": "art_112",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_113",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_114",
+    "predicate": "references",
+    "object": "art_13"
+  },
+  {
+    "subject": "art_114",
+    "predicate": "references",
+    "object": "art_26"
+  },
+  {
+    "subject": "art_114",
+    "predicate": "references",
+    "object": "art_61"
+  },
+  {
+    "subject": "art_114",
+    "predicate": "references",
+    "object": "art_62"
+  },
+  {
+    "subject": "art_114",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_114",
+    "predicate": "references",
+    "object": "art_93"
+  },
+  {
+    "subject": "art_114",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_115",
+    "predicate": "references",
+    "object": "art_114"
+  },
+  {
+    "subject": "art_115",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_115",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_115",
+    "predicate": "defines_rate",
+    "object": "16%"
+  },
+  {
+    "subject": "art_115",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_116",
+    "predicate": "references",
+    "object": "art_114"
+  },
+  {
+    "subject": "art_116",
+    "predicate": "references",
+    "object": "art_115"
+  },
+  {
+    "subject": "art_116",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_116",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_116",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_116",
+    "predicate": "defines_rate",
+    "object": "16%"
+  },
+  {
+    "subject": "art_117",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_118",
+    "predicate": "references",
+    "object": "art_103"
+  },
+  {
+    "subject": "art_118",
+    "predicate": "references",
+    "object": "art_148"
+  },
+  {
+    "subject": "art_118",
+    "predicate": "references",
+    "object": "art_151"
+  },
+  {
+    "subject": "art_118",
+    "predicate": "references",
+    "object": "art_170"
+  },
+  {
+    "subject": "art_118",
+    "predicate": "references",
+    "object": "art_174"
+  },
+  {
+    "subject": "art_118",
+    "predicate": "references",
+    "object": "art_61"
+  },
+  {
+    "subject": "art_118",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_119",
+    "predicate": "references",
+    "object": "art_91"
+  },
+  {
+    "subject": "art_119",
+    "predicate": "references",
+    "object": "art_96"
+  },
+  {
+    "subject": "art_119",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_120",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_1201",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_121",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_121",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_122",
+    "predicate": "references",
+    "object": "art_60"
+  },
+  {
+    "subject": "art_122",
+    "predicate": "references",
+    "object": "art_721"
+  },
+  {
+    "subject": "art_122",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "references",
+    "object": "art_114"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "references",
+    "object": "art_118"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "references",
+    "object": "art_119"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "references",
+    "object": "art_682"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "references",
+    "object": "art_721"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "references",
+    "object": "art_84"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "defines_rate",
+    "object": "16%"
+  },
+  {
+    "subject": "art_123",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "references",
+    "object": "art_25"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "references",
+    "object": "art_78"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "references",
+    "object": "art_82"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_1231",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_124",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_125",
+    "predicate": "references",
+    "object": "art_69"
+  },
+  {
+    "subject": "art_125",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_126",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_126",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_127",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_128",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_129",
+    "predicate": "references",
+    "object": "art_126"
+  },
+  {
+    "subject": "art_129",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_130",
+    "predicate": "references",
+    "object": "art_100"
+  },
+  {
+    "subject": "art_130",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_130",
+    "predicate": "references",
+    "object": "art_59"
+  },
+  {
+    "subject": "art_130",
+    "predicate": "references",
+    "object": "art_64"
+  },
+  {
+    "subject": "art_130",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_130",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_130",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_131",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_131",
+    "predicate": "references",
+    "object": "art_61"
+  },
+  {
+    "subject": "art_131",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_132",
+    "predicate": "references",
+    "object": "art_841"
+  },
+  {
+    "subject": "art_132",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_101"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_107"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_111"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_114"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_118"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_120"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_1201"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_121"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_123"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_1231"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_125"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_130"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_3"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_681"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_682"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_72"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_79"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_83"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_85"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_86"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_87"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_89"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_92"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "references",
+    "object": "art_961"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "defines_rate",
+    "object": "3%"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "defines_rate",
+    "object": "1%"
+  },
+  {
+    "subject": "art_133",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_134",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_135",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_135",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1351",
+    "predicate": "references",
+    "object": "art_145"
+  },
+  {
+    "subject": "art_1351",
+    "predicate": "references",
+    "object": "art_148"
+  },
+  {
+    "subject": "art_1351",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1352",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_136",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_136",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_136",
+    "predicate": "references",
+    "object": "art_23"
+  },
+  {
+    "subject": "art_136",
+    "predicate": "references",
+    "object": "art_32"
+  },
+  {
+    "subject": "art_136",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_137",
+    "predicate": "references",
+    "object": "art_136"
+  },
+  {
+    "subject": "art_137",
+    "predicate": "references",
+    "object": "art_60"
+  },
+  {
+    "subject": "art_137",
+    "predicate": "references",
+    "object": "art_67"
+  },
+  {
+    "subject": "art_137",
+    "predicate": "references",
+    "object": "art_70"
+  },
+  {
+    "subject": "art_137",
+    "predicate": "references",
+    "object": "art_72"
+  },
+  {
+    "subject": "art_137",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_137",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_138",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_138",
+    "predicate": "defines_rate",
+    "object": "25%"
+  },
+  {
+    "subject": "art_1381",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1382",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1383",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1384",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1385",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_139",
+    "predicate": "references",
+    "object": "art_142"
+  },
+  {
+    "subject": "art_139",
+    "predicate": "references",
+    "object": "art_145"
+  },
+  {
+    "subject": "art_139",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_139",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1391",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_140",
+    "predicate": "references",
+    "object": "art_139"
+  },
+  {
+    "subject": "art_140",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_141",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_142",
+    "predicate": "references",
+    "object": "art_139"
+  },
+  {
+    "subject": "art_142",
+    "predicate": "references",
+    "object": "art_2201"
+  },
+  {
+    "subject": "art_142",
+    "predicate": "references",
+    "object": "art_25"
+  },
+  {
+    "subject": "art_142",
+    "predicate": "references",
+    "object": "art_5"
+  },
+  {
+    "subject": "art_142",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_142",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_143",
+    "predicate": "references",
+    "object": "art_136"
+  },
+  {
+    "subject": "art_143",
+    "predicate": "references",
+    "object": "art_138"
+  },
+  {
+    "subject": "art_143",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_144",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_144",
+    "predicate": "references",
+    "object": "art_138"
+  },
+  {
+    "subject": "art_144",
+    "predicate": "references",
+    "object": "art_23"
+  },
+  {
+    "subject": "art_144",
+    "predicate": "references",
+    "object": "art_32"
+  },
+  {
+    "subject": "art_144",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_145",
+    "predicate": "references",
+    "object": "art_136"
+  },
+  {
+    "subject": "art_145",
+    "predicate": "references",
+    "object": "art_143"
+  },
+  {
+    "subject": "art_145",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_146",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_146",
+    "predicate": "references",
+    "object": "art_136"
+  },
+  {
+    "subject": "art_146",
+    "predicate": "references",
+    "object": "art_138"
+  },
+  {
+    "subject": "art_146",
+    "predicate": "references",
+    "object": "art_139"
+  },
+  {
+    "subject": "art_146",
+    "predicate": "references",
+    "object": "art_1391"
+  },
+  {
+    "subject": "art_146",
+    "predicate": "references",
+    "object": "art_140"
+  },
+  {
+    "subject": "art_146",
+    "predicate": "references",
+    "object": "art_141"
+  },
+  {
+    "subject": "art_146",
+    "predicate": "references",
+    "object": "art_143"
+  },
+  {
+    "subject": "art_146",
+    "predicate": "references",
+    "object": "art_40"
+  },
+  {
+    "subject": "art_146",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_147",
+    "predicate": "references",
+    "object": "art_136"
+  },
+  {
+    "subject": "art_147",
+    "predicate": "references",
+    "object": "art_146"
+  },
+  {
+    "subject": "art_147",
+    "predicate": "references",
+    "object": "art_80"
+  },
+  {
+    "subject": "art_147",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1471",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_1471",
+    "predicate": "references",
+    "object": "art_146"
+  },
+  {
+    "subject": "art_1471",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_148",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_148",
+    "predicate": "references",
+    "object": "art_137"
+  },
+  {
+    "subject": "art_148",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_148",
+    "predicate": "references",
+    "object": "art_681"
+  },
+  {
+    "subject": "art_148",
+    "predicate": "references",
+    "object": "art_72"
+  },
+  {
+    "subject": "art_148",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_149",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_150",
+    "predicate": "references",
+    "object": "art_137"
+  },
+  {
+    "subject": "art_150",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_151",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_151",
+    "predicate": "references",
+    "object": "art_137"
+  },
+  {
+    "subject": "art_151",
+    "predicate": "references",
+    "object": "art_138"
+  },
+  {
+    "subject": "art_151",
+    "predicate": "references",
+    "object": "art_147"
+  },
+  {
+    "subject": "art_151",
+    "predicate": "references",
+    "object": "art_148"
+  },
+  {
+    "subject": "art_151",
+    "predicate": "references",
+    "object": "art_150"
+  },
+  {
+    "subject": "art_151",
+    "predicate": "references",
+    "object": "art_681"
+  },
+  {
+    "subject": "art_151",
+    "predicate": "references",
+    "object": "art_72"
+  },
+  {
+    "subject": "art_151",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_151",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_152",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_153",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_153",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_153",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_153",
+    "predicate": "references",
+    "object": "art_23"
+  },
+  {
+    "subject": "art_153",
+    "predicate": "references",
+    "object": "art_32"
+  },
+  {
+    "subject": "art_153",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_154",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_154",
+    "predicate": "references",
+    "object": "art_224"
+  },
+  {
+    "subject": "art_154",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_103"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_114"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_125"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_153"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_31"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_50"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_60"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_67"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_70"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_83"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_91"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "references",
+    "object": "art_99"
+  },
+  {
+    "subject": "art_155",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_156",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_156",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_157",
+    "predicate": "references",
+    "object": "art_141"
+  },
+  {
+    "subject": "art_157",
+    "predicate": "references",
+    "object": "art_142"
+  },
+  {
+    "subject": "art_157",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_157",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_157",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1571",
+    "predicate": "references",
+    "object": "art_153"
+  },
+  {
+    "subject": "art_1571",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1572",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1573",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1574",
+    "predicate": "references",
+    "object": "art_153"
+  },
+  {
+    "subject": "art_1574",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1575",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1576",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1577",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_1577",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1578",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_1578",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1579",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_1579",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_158",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_159",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_160",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_161",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_162",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_163",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_164",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_165",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_166",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_167",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_168",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_168",
+    "predicate": "references",
+    "object": "art_146"
+  },
+  {
+    "subject": "art_168",
+    "predicate": "references",
+    "object": "art_153"
+  },
+  {
+    "subject": "art_168",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_168",
+    "predicate": "references",
+    "object": "art_156"
+  },
+  {
+    "subject": "art_168",
+    "predicate": "references",
+    "object": "art_157"
+  },
+  {
+    "subject": "art_168",
+    "predicate": "references",
+    "object": "art_1572"
+  },
+  {
+    "subject": "art_168",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_169",
+    "predicate": "references",
+    "object": "art_147"
+  },
+  {
+    "subject": "art_169",
+    "predicate": "references",
+    "object": "art_153"
+  },
+  {
+    "subject": "art_169",
+    "predicate": "references",
+    "object": "art_168"
+  },
+  {
+    "subject": "art_169",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1691",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_1691",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1692",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_1692",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_104"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_114"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_118"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_125"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_72"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_73"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_84"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_93"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "references",
+    "object": "art_94"
+  },
+  {
+    "subject": "art_170",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_171",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_172",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_173",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_147"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_154"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_156"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_167"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_168"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_170"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_180"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_68"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_681"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "references",
+    "object": "art_99"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_174",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_1741",
+    "predicate": "references",
+    "object": "art_122"
+  },
+  {
+    "subject": "art_1741",
+    "predicate": "references",
+    "object": "art_147"
+  },
+  {
+    "subject": "art_1741",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_1741",
+    "predicate": "references",
+    "object": "art_156"
+  },
+  {
+    "subject": "art_1741",
+    "predicate": "references",
+    "object": "art_170"
+  },
+  {
+    "subject": "art_1741",
+    "predicate": "references",
+    "object": "art_174"
+  },
+  {
+    "subject": "art_1741",
+    "predicate": "references",
+    "object": "art_180"
+  },
+  {
+    "subject": "art_1741",
+    "predicate": "references",
+    "object": "art_72"
+  },
+  {
+    "subject": "art_1741",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_175",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_176",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_177",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_178",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_179",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_180",
+    "predicate": "references",
+    "object": "art_154"
+  },
+  {
+    "subject": "art_180",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_180",
+    "predicate": "references",
+    "object": "art_156"
+  },
+  {
+    "subject": "art_180",
+    "predicate": "references",
+    "object": "art_174"
+  },
+  {
+    "subject": "art_180",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1821",
+    "predicate": "references",
+    "object": "art_155"
+  },
+  {
+    "subject": "art_1821",
+    "predicate": "references",
+    "object": "art_156"
+  },
+  {
+    "subject": "art_1821",
+    "predicate": "references",
+    "object": "art_224"
+  },
+  {
+    "subject": "art_1821",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_1821",
+    "predicate": "defines_rate",
+    "object": "25%"
+  },
+  {
+    "subject": "art_184",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_185",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_186",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_187",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_188",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_189",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_190",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_191",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_192",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_193",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_194",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_195",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_196",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_197",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_198",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_199",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_200",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_202",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_203",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_204",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_205",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_206",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_207",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_208",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_209",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_210",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_211",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_212",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_213",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_214",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_215",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_216",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_216",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_217",
+    "predicate": "references",
+    "object": "art_216"
+  },
+  {
+    "subject": "art_217",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_218",
+    "predicate": "references",
+    "object": "art_139"
+  },
+  {
+    "subject": "art_218",
+    "predicate": "references",
+    "object": "art_148"
+  },
+  {
+    "subject": "art_218",
+    "predicate": "references",
+    "object": "art_216"
+  },
+  {
+    "subject": "art_218",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_219",
+    "predicate": "references",
+    "object": "art_216"
+  },
+  {
+    "subject": "art_219",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_220",
+    "predicate": "references",
+    "object": "art_216"
+  },
+  {
+    "subject": "art_220",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_2201",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_2202",
+    "predicate": "references",
+    "object": "art_2201"
+  },
+  {
+    "subject": "art_2202",
+    "predicate": "references",
+    "object": "art_60"
+  },
+  {
+    "subject": "art_2202",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_2202",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_2203",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_2203",
+    "predicate": "defines_rate",
+    "object": "25%"
+  },
+  {
+    "subject": "art_2204",
+    "predicate": "references",
+    "object": "art_142"
+  },
+  {
+    "subject": "art_2204",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_2204",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_2205",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_2206",
+    "predicate": "references",
+    "object": "art_2201"
+  },
+  {
+    "subject": "art_2206",
+    "predicate": "references",
+    "object": "art_2203"
+  },
+  {
+    "subject": "art_2206",
+    "predicate": "references",
+    "object": "art_2204"
+  },
+  {
+    "subject": "art_2206",
+    "predicate": "references",
+    "object": "art_2205"
+  },
+  {
+    "subject": "art_2206",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_2206",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_2207",
+    "predicate": "references",
+    "object": "art_147"
+  },
+  {
+    "subject": "art_2207",
+    "predicate": "references",
+    "object": "art_2201"
+  },
+  {
+    "subject": "art_2207",
+    "predicate": "references",
+    "object": "art_2206"
+  },
+  {
+    "subject": "art_2207",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_2208",
+    "predicate": "references",
+    "object": "art_180"
+  },
+  {
+    "subject": "art_2208",
+    "predicate": "belongs_to",
+    "object": "contributii_sociale"
+  },
+  {
+    "subject": "art_222",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_223",
+    "predicate": "references",
+    "object": "art_100"
+  },
+  {
+    "subject": "art_223",
+    "predicate": "references",
+    "object": "art_108"
+  },
+  {
+    "subject": "art_223",
+    "predicate": "references",
+    "object": "art_99"
+  },
+  {
+    "subject": "art_223",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_224",
+    "predicate": "references",
+    "object": "art_11"
+  },
+  {
+    "subject": "art_224",
+    "predicate": "references",
+    "object": "art_223"
+  },
+  {
+    "subject": "art_224",
+    "predicate": "references",
+    "object": "art_229"
+  },
+  {
+    "subject": "art_224",
+    "predicate": "references",
+    "object": "art_233"
+  },
+  {
+    "subject": "art_224",
+    "predicate": "references",
+    "object": "art_234"
+  },
+  {
+    "subject": "art_224",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_225",
+    "predicate": "references",
+    "object": "art_224"
+  },
+  {
+    "subject": "art_225",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_226",
+    "predicate": "references",
+    "object": "art_224"
+  },
+  {
+    "subject": "art_226",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_227",
+    "predicate": "references",
+    "object": "art_224"
+  },
+  {
+    "subject": "art_227",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_228",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_229",
+    "predicate": "references",
+    "object": "art_43"
+  },
+  {
+    "subject": "art_229",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_229",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_230",
+    "predicate": "references",
+    "object": "art_132"
+  },
+  {
+    "subject": "art_230",
+    "predicate": "references",
+    "object": "art_224"
+  },
+  {
+    "subject": "art_230",
+    "predicate": "references",
+    "object": "art_59"
+  },
+  {
+    "subject": "art_230",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_230",
+    "predicate": "references",
+    "object": "art_961"
+  },
+  {
+    "subject": "art_230",
+    "predicate": "references",
+    "object": "art_97"
+  },
+  {
+    "subject": "art_230",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_231",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_232",
+    "predicate": "references",
+    "object": "art_230"
+  },
+  {
+    "subject": "art_232",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_233",
+    "predicate": "references",
+    "object": "art_231"
+  },
+  {
+    "subject": "art_233",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_234",
+    "predicate": "references",
+    "object": "art_233"
+  },
+  {
+    "subject": "art_234",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_235",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_236",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_237",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_238",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_239",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_240",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_241",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_242",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_243",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_244",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_245",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_246",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_247",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_248",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_249",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_250",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_252",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_253",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_254",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_255",
+    "predicate": "references",
+    "object": "art_258"
+  },
+  {
+    "subject": "art_255",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_256",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_257",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_258",
+    "predicate": "references",
+    "object": "art_263"
+  },
+  {
+    "subject": "art_258",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_258",
+    "predicate": "defines_rate",
+    "object": "25%"
+  },
+  {
+    "subject": "art_258",
+    "predicate": "defines_rate",
+    "object": "25%"
+  },
+  {
+    "subject": "art_258",
+    "predicate": "defines_rate",
+    "object": "25%"
+  },
+  {
+    "subject": "art_259",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_260",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_261",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_262",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_263",
+    "predicate": "references",
+    "object": "art_258"
+  },
+  {
+    "subject": "art_263",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_264",
+    "predicate": "belongs_to",
+    "object": "impozit_pe_venit"
+  },
+  {
+    "subject": "art_265",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_268"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_269"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_271"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_273"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_284"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_285"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_291"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_300"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_309"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_3151"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_318"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_319"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_322"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_324"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_6"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_266",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_267",
+    "predicate": "references",
+    "object": "art_349"
+  },
+  {
+    "subject": "art_267",
+    "predicate": "references",
+    "object": "art_355"
+  },
+  {
+    "subject": "art_267",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_269"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_276"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_277"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_291"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_2921"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_293"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_312"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_313"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_3151"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "references",
+    "object": "art_333"
+  },
+  {
+    "subject": "art_268",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_269",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_269",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_270",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_270",
+    "predicate": "references",
+    "object": "art_266"
+  },
+  {
+    "subject": "art_270",
+    "predicate": "references",
+    "object": "art_2701"
+  },
+  {
+    "subject": "art_270",
+    "predicate": "references",
+    "object": "art_273"
+  },
+  {
+    "subject": "art_270",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_270",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_270",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_270",
+    "predicate": "references",
+    "object": "art_321"
+  },
+  {
+    "subject": "art_270",
+    "predicate": "references",
+    "object": "art_325"
+  },
+  {
+    "subject": "art_270",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_271",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_271",
+    "predicate": "references",
+    "object": "art_298"
+  },
+  {
+    "subject": "art_271",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_272",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_273",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_273",
+    "predicate": "references",
+    "object": "art_293"
+  },
+  {
+    "subject": "art_273",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_274",
+    "predicate": "references",
+    "object": "art_29"
+  },
+  {
+    "subject": "art_274",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_2741",
+    "predicate": "references",
+    "object": "art_268"
+  },
+  {
+    "subject": "art_2741",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_275",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_275",
+    "predicate": "references",
+    "object": "art_312"
+  },
+  {
+    "subject": "art_275",
+    "predicate": "references",
+    "object": "art_3152"
+  },
+  {
+    "subject": "art_275",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_276",
+    "predicate": "references",
+    "object": "art_268"
+  },
+  {
+    "subject": "art_276",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_276",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_277",
+    "predicate": "references",
+    "object": "art_274"
+  },
+  {
+    "subject": "art_277",
+    "predicate": "references",
+    "object": "art_295"
+  },
+  {
+    "subject": "art_277",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_278",
+    "predicate": "references",
+    "object": "art_268"
+  },
+  {
+    "subject": "art_278",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_2781",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_2781",
+    "predicate": "references",
+    "object": "art_278"
+  },
+  {
+    "subject": "art_2781",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_279",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_279",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_280",
+    "predicate": "references",
+    "object": "art_282"
+  },
+  {
+    "subject": "art_280",
+    "predicate": "references",
+    "object": "art_291"
+  },
+  {
+    "subject": "art_280",
+    "predicate": "references",
+    "object": "art_326"
+  },
+  {
+    "subject": "art_280",
+    "predicate": "references",
+    "object": "art_331"
+  },
+  {
+    "subject": "art_280",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_281",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_281",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_281",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_281",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_266"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_269"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_278"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_287"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_311"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_331"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_41"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_282",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_283",
+    "predicate": "references",
+    "object": "art_282"
+  },
+  {
+    "subject": "art_283",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_283",
+    "predicate": "references",
+    "object": "art_319"
+  },
+  {
+    "subject": "art_283",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_284",
+    "predicate": "references",
+    "object": "art_222"
+  },
+  {
+    "subject": "art_284",
+    "predicate": "references",
+    "object": "art_319"
+  },
+  {
+    "subject": "art_284",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_285",
+    "predicate": "references",
+    "object": "art_295"
+  },
+  {
+    "subject": "art_285",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_286",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_286",
+    "predicate": "references",
+    "object": "art_271"
+  },
+  {
+    "subject": "art_286",
+    "predicate": "references",
+    "object": "art_273"
+  },
+  {
+    "subject": "art_286",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_286",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_286",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_286",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_287",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_287",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_288",
+    "predicate": "references",
+    "object": "art_273"
+  },
+  {
+    "subject": "art_288",
+    "predicate": "references",
+    "object": "art_286"
+  },
+  {
+    "subject": "art_288",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_289",
+    "predicate": "references",
+    "object": "art_286"
+  },
+  {
+    "subject": "art_289",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_290",
+    "predicate": "references",
+    "object": "art_282"
+  },
+  {
+    "subject": "art_290",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_291",
+    "predicate": "references",
+    "object": "art_282"
+  },
+  {
+    "subject": "art_291",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_291",
+    "predicate": "defines_rate",
+    "object": "21%"
+  },
+  {
+    "subject": "art_291",
+    "predicate": "defines_rate",
+    "object": "11%"
+  },
+  {
+    "subject": "art_292",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_292",
+    "predicate": "references",
+    "object": "art_298"
+  },
+  {
+    "subject": "art_292",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_2921",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_2921",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_293",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_293",
+    "predicate": "references",
+    "object": "art_302"
+  },
+  {
+    "subject": "art_293",
+    "predicate": "references",
+    "object": "art_3152"
+  },
+  {
+    "subject": "art_293",
+    "predicate": "references",
+    "object": "art_395"
+  },
+  {
+    "subject": "art_293",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_294",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_294",
+    "predicate": "references",
+    "object": "art_289"
+  },
+  {
+    "subject": "art_294",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_294",
+    "predicate": "references",
+    "object": "art_296"
+  },
+  {
+    "subject": "art_294",
+    "predicate": "references",
+    "object": "art_312"
+  },
+  {
+    "subject": "art_294",
+    "predicate": "references",
+    "object": "art_325"
+  },
+  {
+    "subject": "art_294",
+    "predicate": "references",
+    "object": "art_370"
+  },
+  {
+    "subject": "art_294",
+    "predicate": "references",
+    "object": "art_407"
+  },
+  {
+    "subject": "art_294",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_2941",
+    "predicate": "references",
+    "object": "art_293"
+  },
+  {
+    "subject": "art_2941",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_2941",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_295",
+    "predicate": "references",
+    "object": "art_296"
+  },
+  {
+    "subject": "art_295",
+    "predicate": "references",
+    "object": "art_336"
+  },
+  {
+    "subject": "art_295",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_296",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_296",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_297",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_297",
+    "predicate": "references",
+    "object": "art_271"
+  },
+  {
+    "subject": "art_297",
+    "predicate": "references",
+    "object": "art_282"
+  },
+  {
+    "subject": "art_297",
+    "predicate": "references",
+    "object": "art_286"
+  },
+  {
+    "subject": "art_297",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_297",
+    "predicate": "references",
+    "object": "art_2921"
+  },
+  {
+    "subject": "art_297",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_297",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_297",
+    "predicate": "references",
+    "object": "art_331"
+  },
+  {
+    "subject": "art_297",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_298",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_298",
+    "predicate": "references",
+    "object": "art_299"
+  },
+  {
+    "subject": "art_298",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_299",
+    "predicate": "references",
+    "object": "art_273"
+  },
+  {
+    "subject": "art_299",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_299",
+    "predicate": "references",
+    "object": "art_319"
+  },
+  {
+    "subject": "art_299",
+    "predicate": "references",
+    "object": "art_320"
+  },
+  {
+    "subject": "art_299",
+    "predicate": "references",
+    "object": "art_326"
+  },
+  {
+    "subject": "art_299",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_300",
+    "predicate": "references",
+    "object": "art_269"
+  },
+  {
+    "subject": "art_300",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_300",
+    "predicate": "references",
+    "object": "art_271"
+  },
+  {
+    "subject": "art_300",
+    "predicate": "references",
+    "object": "art_287"
+  },
+  {
+    "subject": "art_300",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_300",
+    "predicate": "references",
+    "object": "art_305"
+  },
+  {
+    "subject": "art_300",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_300",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_300",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_301",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_301",
+    "predicate": "references",
+    "object": "art_299"
+  },
+  {
+    "subject": "art_301",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_301",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_302",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_302",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_303",
+    "predicate": "references",
+    "object": "art_157"
+  },
+  {
+    "subject": "art_303",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_303",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_303",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_303",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_304",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_304",
+    "predicate": "references",
+    "object": "art_271"
+  },
+  {
+    "subject": "art_304",
+    "predicate": "references",
+    "object": "art_287"
+  },
+  {
+    "subject": "art_304",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_305",
+    "predicate": "references",
+    "object": "art_266"
+  },
+  {
+    "subject": "art_305",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_305",
+    "predicate": "references",
+    "object": "art_287"
+  },
+  {
+    "subject": "art_305",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_305",
+    "predicate": "references",
+    "object": "art_298"
+  },
+  {
+    "subject": "art_305",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_305",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_306",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_306",
+    "predicate": "references",
+    "object": "art_305"
+  },
+  {
+    "subject": "art_306",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_307",
+    "predicate": "references",
+    "object": "art_266"
+  },
+  {
+    "subject": "art_307",
+    "predicate": "references",
+    "object": "art_268"
+  },
+  {
+    "subject": "art_307",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_307",
+    "predicate": "references",
+    "object": "art_278"
+  },
+  {
+    "subject": "art_307",
+    "predicate": "references",
+    "object": "art_295"
+  },
+  {
+    "subject": "art_307",
+    "predicate": "references",
+    "object": "art_3102"
+  },
+  {
+    "subject": "art_307",
+    "predicate": "references",
+    "object": "art_314"
+  },
+  {
+    "subject": "art_307",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_307",
+    "predicate": "references",
+    "object": "art_331"
+  },
+  {
+    "subject": "art_307",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_308",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_309",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_105"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_135"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_138"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_146"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_151"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_266"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_268"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_284"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_288"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_3101"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_317"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_322"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_86"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_88"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "references",
+    "object": "art_98"
+  },
+  {
+    "subject": "art_310",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_3102",
+    "predicate": "references",
+    "object": "art_284"
+  },
+  {
+    "subject": "art_3102",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_3102",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_3102",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_3102",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_3102",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_311",
+    "predicate": "references",
+    "object": "art_286"
+  },
+  {
+    "subject": "art_311",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_311",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_312",
+    "predicate": "references",
+    "object": "art_289"
+  },
+  {
+    "subject": "art_312",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_312",
+    "predicate": "references",
+    "object": "art_293"
+  },
+  {
+    "subject": "art_312",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_312",
+    "predicate": "references",
+    "object": "art_322"
+  },
+  {
+    "subject": "art_312",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_313",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_314",
+    "predicate": "references",
+    "object": "art_278"
+  },
+  {
+    "subject": "art_314",
+    "predicate": "references",
+    "object": "art_301"
+  },
+  {
+    "subject": "art_314",
+    "predicate": "references",
+    "object": "art_302"
+  },
+  {
+    "subject": "art_314",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_314",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_314",
+    "predicate": "references",
+    "object": "art_63"
+  },
+  {
+    "subject": "art_314",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_315",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_315",
+    "predicate": "references",
+    "object": "art_278"
+  },
+  {
+    "subject": "art_315",
+    "predicate": "references",
+    "object": "art_302"
+  },
+  {
+    "subject": "art_315",
+    "predicate": "references",
+    "object": "art_3101"
+  },
+  {
+    "subject": "art_315",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_315",
+    "predicate": "references",
+    "object": "art_317"
+  },
+  {
+    "subject": "art_315",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_315",
+    "predicate": "references",
+    "object": "art_63"
+  },
+  {
+    "subject": "art_315",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_266"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_268"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_278"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_317"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_319"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_321"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_322"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_324"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "references",
+    "object": "art_325"
+  },
+  {
+    "subject": "art_3151",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_3152",
+    "predicate": "references",
+    "object": "art_302"
+  },
+  {
+    "subject": "art_3152",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_3152",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_3152",
+    "predicate": "references",
+    "object": "art_61"
+  },
+  {
+    "subject": "art_3152",
+    "predicate": "references",
+    "object": "art_63"
+  },
+  {
+    "subject": "art_3152",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_3153",
+    "predicate": "references",
+    "object": "art_291"
+  },
+  {
+    "subject": "art_3153",
+    "predicate": "references",
+    "object": "art_3152"
+  },
+  {
+    "subject": "art_3153",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_3154",
+    "predicate": "references",
+    "object": "art_3152"
+  },
+  {
+    "subject": "art_3154",
+    "predicate": "references",
+    "object": "art_3153"
+  },
+  {
+    "subject": "art_3154",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_3155",
+    "predicate": "references",
+    "object": "art_12"
+  },
+  {
+    "subject": "art_3155",
+    "predicate": "references",
+    "object": "art_18"
+  },
+  {
+    "subject": "art_3155",
+    "predicate": "references",
+    "object": "art_282"
+  },
+  {
+    "subject": "art_3155",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_3156",
+    "predicate": "references",
+    "object": "art_3155"
+  },
+  {
+    "subject": "art_3156",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_11"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_266"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_278"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_295"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_296"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_308"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_3102"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_314"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_315"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_3151"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_322"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_4"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_316",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_317",
+    "predicate": "references",
+    "object": "art_268"
+  },
+  {
+    "subject": "art_317",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_317",
+    "predicate": "references",
+    "object": "art_3102"
+  },
+  {
+    "subject": "art_317",
+    "predicate": "references",
+    "object": "art_315"
+  },
+  {
+    "subject": "art_317",
+    "predicate": "references",
+    "object": "art_3151"
+  },
+  {
+    "subject": "art_317",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_317",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_318",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_318",
+    "predicate": "references",
+    "object": "art_308"
+  },
+  {
+    "subject": "art_318",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_318",
+    "predicate": "references",
+    "object": "art_317"
+  },
+  {
+    "subject": "art_318",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_266"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_273"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_287"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_290"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_314"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_315"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_330"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "references",
+    "object": "art_398"
+  },
+  {
+    "subject": "art_319",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_320",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_320",
+    "predicate": "references",
+    "object": "art_271"
+  },
+  {
+    "subject": "art_320",
+    "predicate": "references",
+    "object": "art_287"
+  },
+  {
+    "subject": "art_320",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_320",
+    "predicate": "references",
+    "object": "art_308"
+  },
+  {
+    "subject": "art_320",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_320",
+    "predicate": "references",
+    "object": "art_319"
+  },
+  {
+    "subject": "art_320",
+    "predicate": "references",
+    "object": "art_330"
+  },
+  {
+    "subject": "art_320",
+    "predicate": "references",
+    "object": "art_331"
+  },
+  {
+    "subject": "art_320",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_321",
+    "predicate": "references",
+    "object": "art_2701"
+  },
+  {
+    "subject": "art_321",
+    "predicate": "references",
+    "object": "art_54"
+  },
+  {
+    "subject": "art_321",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_3211",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_3211",
+    "predicate": "references",
+    "object": "art_54"
+  },
+  {
+    "subject": "art_3211",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_3212",
+    "predicate": "references",
+    "object": "art_105"
+  },
+  {
+    "subject": "art_3212",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_3212",
+    "predicate": "references",
+    "object": "art_24"
+  },
+  {
+    "subject": "art_3212",
+    "predicate": "references",
+    "object": "art_4"
+  },
+  {
+    "subject": "art_3212",
+    "predicate": "references",
+    "object": "art_5"
+  },
+  {
+    "subject": "art_3212",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_3212",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_322",
+    "predicate": "references",
+    "object": "art_275"
+  },
+  {
+    "subject": "art_322",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_322",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_322",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_322",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_322",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_323",
+    "predicate": "references",
+    "object": "art_301"
+  },
+  {
+    "subject": "art_323",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_323",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_323",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_11"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_266"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_270"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_280"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_282"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_285"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_287"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_304"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "references",
+    "object": "art_317"
+  },
+  {
+    "subject": "art_324",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "references",
+    "object": "art_2701"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "references",
+    "object": "art_273"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "references",
+    "object": "art_276"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "references",
+    "object": "art_278"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "references",
+    "object": "art_286"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "references",
+    "object": "art_287"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "references",
+    "object": "art_3151"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_325",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "references",
+    "object": "art_179"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "references",
+    "object": "art_182"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "references",
+    "object": "art_267"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "references",
+    "object": "art_293"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "references",
+    "object": "art_318"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "references",
+    "object": "art_331"
+  },
+  {
+    "subject": "art_326",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_327",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_327",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_328",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_329",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_330",
+    "predicate": "references",
+    "object": "art_287"
+  },
+  {
+    "subject": "art_330",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_330",
+    "predicate": "references",
+    "object": "art_310"
+  },
+  {
+    "subject": "art_330",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_330",
+    "predicate": "references",
+    "object": "art_319"
+  },
+  {
+    "subject": "art_330",
+    "predicate": "references",
+    "object": "art_320"
+  },
+  {
+    "subject": "art_330",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "references",
+    "object": "art_12"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "references",
+    "object": "art_266"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "references",
+    "object": "art_297"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "references",
+    "object": "art_3"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "references",
+    "object": "art_307"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "references",
+    "object": "art_316"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "references",
+    "object": "art_323"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "references",
+    "object": "art_330"
+  },
+  {
+    "subject": "art_331",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_332",
+    "predicate": "references",
+    "object": "art_292"
+  },
+  {
+    "subject": "art_332",
+    "predicate": "references",
+    "object": "art_305"
+  },
+  {
+    "subject": "art_332",
+    "predicate": "references",
+    "object": "art_333"
+  },
+  {
+    "subject": "art_332",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_333",
+    "predicate": "references",
+    "object": "art_294"
+  },
+  {
+    "subject": "art_333",
+    "predicate": "references",
+    "object": "art_295"
+  },
+  {
+    "subject": "art_333",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_334",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_335",
+    "predicate": "references",
+    "object": "art_3351"
+  },
+  {
+    "subject": "art_335",
+    "predicate": "references",
+    "object": "art_337"
+  },
+  {
+    "subject": "art_335",
+    "predicate": "references",
+    "object": "art_5"
+  },
+  {
+    "subject": "art_335",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_201"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_335"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_337"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_340"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_342"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_345"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_349"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_412"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_435"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "references",
+    "object": "art_79"
+  },
+  {
+    "subject": "art_336",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_337",
+    "predicate": "references",
+    "object": "art_349"
+  },
+  {
+    "subject": "art_337",
+    "predicate": "references",
+    "object": "art_355"
+  },
+  {
+    "subject": "art_337",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_338",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_339",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_340",
+    "predicate": "references",
+    "object": "art_124"
+  },
+  {
+    "subject": "art_340",
+    "predicate": "references",
+    "object": "art_348"
+  },
+  {
+    "subject": "art_340",
+    "predicate": "references",
+    "object": "art_365"
+  },
+  {
+    "subject": "art_340",
+    "predicate": "references",
+    "object": "art_395"
+  },
+  {
+    "subject": "art_340",
+    "predicate": "references",
+    "object": "art_401"
+  },
+  {
+    "subject": "art_340",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_341",
+    "predicate": "references",
+    "object": "art_340"
+  },
+  {
+    "subject": "art_341",
+    "predicate": "references",
+    "object": "art_342"
+  },
+  {
+    "subject": "art_341",
+    "predicate": "references",
+    "object": "art_348"
+  },
+  {
+    "subject": "art_341",
+    "predicate": "references",
+    "object": "art_412"
+  },
+  {
+    "subject": "art_341",
+    "predicate": "references",
+    "object": "art_414"
+  },
+  {
+    "subject": "art_341",
+    "predicate": "references",
+    "object": "art_5"
+  },
+  {
+    "subject": "art_341",
+    "predicate": "references",
+    "object": "art_77"
+  },
+  {
+    "subject": "art_341",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_342",
+    "predicate": "references",
+    "object": "art_336"
+  },
+  {
+    "subject": "art_342",
+    "predicate": "references",
+    "object": "art_353"
+  },
+  {
+    "subject": "art_342",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3421",
+    "predicate": "references",
+    "object": "art_342"
+  },
+  {
+    "subject": "art_3421",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_343",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_344",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "references",
+    "object": "art_340"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "references",
+    "object": "art_350"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "references",
+    "object": "art_351"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "references",
+    "object": "art_352"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "references",
+    "object": "art_353"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "references",
+    "object": "art_354"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "references",
+    "object": "art_355"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "references",
+    "object": "art_356"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "references",
+    "object": "art_358"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "references",
+    "object": "art_417"
+  },
+  {
+    "subject": "art_345",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_346",
+    "predicate": "references",
+    "object": "art_340"
+  },
+  {
+    "subject": "art_346",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_347",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_348",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_349",
+    "predicate": "references",
+    "object": "art_335"
+  },
+  {
+    "subject": "art_349",
+    "predicate": "references",
+    "object": "art_342"
+  },
+  {
+    "subject": "art_349",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_349",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_350",
+    "predicate": "references",
+    "object": "art_335"
+  },
+  {
+    "subject": "art_350",
+    "predicate": "references",
+    "object": "art_342"
+  },
+  {
+    "subject": "art_350",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_351",
+    "predicate": "references",
+    "object": "art_335"
+  },
+  {
+    "subject": "art_351",
+    "predicate": "references",
+    "object": "art_342"
+  },
+  {
+    "subject": "art_351",
+    "predicate": "references",
+    "object": "art_349"
+  },
+  {
+    "subject": "art_351",
+    "predicate": "references",
+    "object": "art_350"
+  },
+  {
+    "subject": "art_351",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_351",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_351",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_351",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_352",
+    "predicate": "references",
+    "object": "art_349"
+  },
+  {
+    "subject": "art_352",
+    "predicate": "references",
+    "object": "art_351"
+  },
+  {
+    "subject": "art_352",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_352",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_352",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_353",
+    "predicate": "references",
+    "object": "art_335"
+  },
+  {
+    "subject": "art_353",
+    "predicate": "references",
+    "object": "art_342"
+  },
+  {
+    "subject": "art_353",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_354",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_355",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_356",
+    "predicate": "references",
+    "object": "art_338"
+  },
+  {
+    "subject": "art_356",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_357",
+    "predicate": "references",
+    "object": "art_338"
+  },
+  {
+    "subject": "art_357",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_358",
+    "predicate": "references",
+    "object": "art_338"
+  },
+  {
+    "subject": "art_358",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_359",
+    "predicate": "references",
+    "object": "art_349"
+  },
+  {
+    "subject": "art_359",
+    "predicate": "references",
+    "object": "art_353"
+  },
+  {
+    "subject": "art_359",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3591",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_360",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_361",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_362",
+    "predicate": "references",
+    "object": "art_342"
+  },
+  {
+    "subject": "art_362",
+    "predicate": "references",
+    "object": "art_394"
+  },
+  {
+    "subject": "art_362",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_363",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_364",
+    "predicate": "references",
+    "object": "art_362"
+  },
+  {
+    "subject": "art_364",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_365",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_366",
+    "predicate": "references",
+    "object": "art_369"
+  },
+  {
+    "subject": "art_366",
+    "predicate": "references",
+    "object": "art_374"
+  },
+  {
+    "subject": "art_366",
+    "predicate": "references",
+    "object": "art_377"
+  },
+  {
+    "subject": "art_366",
+    "predicate": "references",
+    "object": "art_382"
+  },
+  {
+    "subject": "art_366",
+    "predicate": "references",
+    "object": "art_385"
+  },
+  {
+    "subject": "art_366",
+    "predicate": "references",
+    "object": "art_390"
+  },
+  {
+    "subject": "art_366",
+    "predicate": "references",
+    "object": "art_393"
+  },
+  {
+    "subject": "art_366",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_367",
+    "predicate": "references",
+    "object": "art_157"
+  },
+  {
+    "subject": "art_367",
+    "predicate": "references",
+    "object": "art_348"
+  },
+  {
+    "subject": "art_367",
+    "predicate": "references",
+    "object": "art_353"
+  },
+  {
+    "subject": "art_367",
+    "predicate": "references",
+    "object": "art_364"
+  },
+  {
+    "subject": "art_367",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_368",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_364"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_366"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_367"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_374"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_377"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_382"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_385"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_390"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_393"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_452"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_369",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_370",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_371",
+    "predicate": "references",
+    "object": "art_336"
+  },
+  {
+    "subject": "art_371",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_371",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_372",
+    "predicate": "references",
+    "object": "art_364"
+  },
+  {
+    "subject": "art_372",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_373",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_374",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_374",
+    "predicate": "references",
+    "object": "art_366"
+  },
+  {
+    "subject": "art_374",
+    "predicate": "references",
+    "object": "art_369"
+  },
+  {
+    "subject": "art_374",
+    "predicate": "references",
+    "object": "art_377"
+  },
+  {
+    "subject": "art_374",
+    "predicate": "references",
+    "object": "art_382"
+  },
+  {
+    "subject": "art_374",
+    "predicate": "references",
+    "object": "art_385"
+  },
+  {
+    "subject": "art_374",
+    "predicate": "references",
+    "object": "art_390"
+  },
+  {
+    "subject": "art_374",
+    "predicate": "references",
+    "object": "art_393"
+  },
+  {
+    "subject": "art_374",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_375",
+    "predicate": "references",
+    "object": "art_157"
+  },
+  {
+    "subject": "art_375",
+    "predicate": "references",
+    "object": "art_348"
+  },
+  {
+    "subject": "art_375",
+    "predicate": "references",
+    "object": "art_367"
+  },
+  {
+    "subject": "art_375",
+    "predicate": "references",
+    "object": "art_372"
+  },
+  {
+    "subject": "art_375",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_376",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_377",
+    "predicate": "references",
+    "object": "art_364"
+  },
+  {
+    "subject": "art_377",
+    "predicate": "references",
+    "object": "art_366"
+  },
+  {
+    "subject": "art_377",
+    "predicate": "references",
+    "object": "art_369"
+  },
+  {
+    "subject": "art_377",
+    "predicate": "references",
+    "object": "art_374"
+  },
+  {
+    "subject": "art_377",
+    "predicate": "references",
+    "object": "art_375"
+  },
+  {
+    "subject": "art_377",
+    "predicate": "references",
+    "object": "art_382"
+  },
+  {
+    "subject": "art_377",
+    "predicate": "references",
+    "object": "art_385"
+  },
+  {
+    "subject": "art_377",
+    "predicate": "references",
+    "object": "art_390"
+  },
+  {
+    "subject": "art_377",
+    "predicate": "references",
+    "object": "art_393"
+  },
+  {
+    "subject": "art_377",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_378",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_379",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_379",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_380",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_380",
+    "predicate": "references",
+    "object": "art_364"
+  },
+  {
+    "subject": "art_380",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_381",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_382",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_382",
+    "predicate": "references",
+    "object": "art_366"
+  },
+  {
+    "subject": "art_382",
+    "predicate": "references",
+    "object": "art_369"
+  },
+  {
+    "subject": "art_382",
+    "predicate": "references",
+    "object": "art_374"
+  },
+  {
+    "subject": "art_382",
+    "predicate": "references",
+    "object": "art_377"
+  },
+  {
+    "subject": "art_382",
+    "predicate": "references",
+    "object": "art_385"
+  },
+  {
+    "subject": "art_382",
+    "predicate": "references",
+    "object": "art_390"
+  },
+  {
+    "subject": "art_382",
+    "predicate": "references",
+    "object": "art_393"
+  },
+  {
+    "subject": "art_382",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_383",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_384",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_364"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_366"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_369"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_374"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_377"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_382"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_383"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_390"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_393"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_385",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3851",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3852",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3853",
+    "predicate": "references",
+    "object": "art_364"
+  },
+  {
+    "subject": "art_3853",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3854",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3855",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3856",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3857",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3858",
+    "predicate": "references",
+    "object": "art_364"
+  },
+  {
+    "subject": "art_3858",
+    "predicate": "references",
+    "object": "art_3856"
+  },
+  {
+    "subject": "art_3858",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_3858",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_386",
+    "predicate": "references",
+    "object": "art_391"
+  },
+  {
+    "subject": "art_386",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_387",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_388",
+    "predicate": "references",
+    "object": "art_364"
+  },
+  {
+    "subject": "art_388",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_389",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_389",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_390",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_390",
+    "predicate": "references",
+    "object": "art_366"
+  },
+  {
+    "subject": "art_390",
+    "predicate": "references",
+    "object": "art_369"
+  },
+  {
+    "subject": "art_390",
+    "predicate": "references",
+    "object": "art_374"
+  },
+  {
+    "subject": "art_390",
+    "predicate": "references",
+    "object": "art_377"
+  },
+  {
+    "subject": "art_390",
+    "predicate": "references",
+    "object": "art_382"
+  },
+  {
+    "subject": "art_390",
+    "predicate": "references",
+    "object": "art_385"
+  },
+  {
+    "subject": "art_390",
+    "predicate": "references",
+    "object": "art_393"
+  },
+  {
+    "subject": "art_390",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_391",
+    "predicate": "references",
+    "object": "art_157"
+  },
+  {
+    "subject": "art_391",
+    "predicate": "references",
+    "object": "art_367"
+  },
+  {
+    "subject": "art_391",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_392",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_364"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_366"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_369"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_374"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_377"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_382"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_385"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_390"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_391"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_393",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_3931",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_3931",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_394",
+    "predicate": "references",
+    "object": "art_355"
+  },
+  {
+    "subject": "art_394",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_395",
+    "predicate": "references",
+    "object": "art_293"
+  },
+  {
+    "subject": "art_395",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_395",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_396",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_397",
+    "predicate": "references",
+    "object": "art_10"
+  },
+  {
+    "subject": "art_397",
+    "predicate": "references",
+    "object": "art_335"
+  },
+  {
+    "subject": "art_397",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_398",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_399",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_400",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4021",
+    "predicate": "references",
+    "object": "art_221"
+  },
+  {
+    "subject": "art_4021",
+    "predicate": "references",
+    "object": "art_401"
+  },
+  {
+    "subject": "art_4021",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_4021",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_410",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_410",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_411",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_411",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_412",
+    "predicate": "references",
+    "object": "art_340"
+  },
+  {
+    "subject": "art_412",
+    "predicate": "references",
+    "object": "art_348"
+  },
+  {
+    "subject": "art_412",
+    "predicate": "references",
+    "object": "art_401"
+  },
+  {
+    "subject": "art_412",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_413",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_336"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_413"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_4141"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_41410"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_41411"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_41412"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_41413"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_41414"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_41415"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_41416"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_41417"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_41418"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_4142"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_4143"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_4144"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_4145"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_4146"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_4147"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_4148"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_4149"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_417"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_419"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_414",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_415",
+    "predicate": "references",
+    "object": "art_414"
+  },
+  {
+    "subject": "art_415",
+    "predicate": "references",
+    "object": "art_4141"
+  },
+  {
+    "subject": "art_415",
+    "predicate": "references",
+    "object": "art_4148"
+  },
+  {
+    "subject": "art_415",
+    "predicate": "references",
+    "object": "art_416"
+  },
+  {
+    "subject": "art_415",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_416",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4161",
+    "predicate": "references",
+    "object": "art_395"
+  },
+  {
+    "subject": "art_4161",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4162",
+    "predicate": "references",
+    "object": "art_415"
+  },
+  {
+    "subject": "art_4162",
+    "predicate": "references",
+    "object": "art_416"
+  },
+  {
+    "subject": "art_4162",
+    "predicate": "references",
+    "object": "art_4161"
+  },
+  {
+    "subject": "art_4162",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4163",
+    "predicate": "references",
+    "object": "art_4161"
+  },
+  {
+    "subject": "art_4163",
+    "predicate": "references",
+    "object": "art_4162"
+  },
+  {
+    "subject": "art_4163",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4164",
+    "predicate": "references",
+    "object": "art_4161"
+  },
+  {
+    "subject": "art_4164",
+    "predicate": "references",
+    "object": "art_4163"
+  },
+  {
+    "subject": "art_4164",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4165",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4166",
+    "predicate": "references",
+    "object": "art_415"
+  },
+  {
+    "subject": "art_4166",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_417",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_418",
+    "predicate": "references",
+    "object": "art_340"
+  },
+  {
+    "subject": "art_418",
+    "predicate": "references",
+    "object": "art_414"
+  },
+  {
+    "subject": "art_418",
+    "predicate": "references",
+    "object": "art_4148"
+  },
+  {
+    "subject": "art_418",
+    "predicate": "references",
+    "object": "art_417"
+  },
+  {
+    "subject": "art_418",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_419",
+    "predicate": "references",
+    "object": "art_414"
+  },
+  {
+    "subject": "art_419",
+    "predicate": "references",
+    "object": "art_4148"
+  },
+  {
+    "subject": "art_419",
+    "predicate": "references",
+    "object": "art_415"
+  },
+  {
+    "subject": "art_419",
+    "predicate": "references",
+    "object": "art_417"
+  },
+  {
+    "subject": "art_419",
+    "predicate": "references",
+    "object": "art_418"
+  },
+  {
+    "subject": "art_419",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_420",
+    "predicate": "references",
+    "object": "art_349"
+  },
+  {
+    "subject": "art_420",
+    "predicate": "references",
+    "object": "art_355"
+  },
+  {
+    "subject": "art_420",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_420",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_430",
+    "predicate": "references",
+    "object": "art_428"
+  },
+  {
+    "subject": "art_430",
+    "predicate": "references",
+    "object": "art_429"
+  },
+  {
+    "subject": "art_430",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_431",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_432",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_433",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_434",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_435",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_435",
+    "predicate": "references",
+    "object": "art_157"
+  },
+  {
+    "subject": "art_435",
+    "predicate": "references",
+    "object": "art_348"
+  },
+  {
+    "subject": "art_435",
+    "predicate": "references",
+    "object": "art_359"
+  },
+  {
+    "subject": "art_435",
+    "predicate": "references",
+    "object": "art_367"
+  },
+  {
+    "subject": "art_435",
+    "predicate": "references",
+    "object": "art_4"
+  },
+  {
+    "subject": "art_435",
+    "predicate": "references",
+    "object": "art_421"
+  },
+  {
+    "subject": "art_435",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_435",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_436",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_437",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_438",
+    "predicate": "references",
+    "object": "art_319"
+  },
+  {
+    "subject": "art_438",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_439",
+    "predicate": "references",
+    "object": "art_12"
+  },
+  {
+    "subject": "art_439",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_440",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_440",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_441",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_442",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_442",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_443",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_443",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_444",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_444",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4441",
+    "predicate": "references",
+    "object": "art_336"
+  },
+  {
+    "subject": "art_4441",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_4441",
+    "predicate": "references",
+    "object": "art_444"
+  },
+  {
+    "subject": "art_4441",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_445",
+    "predicate": "references",
+    "object": "art_319"
+  },
+  {
+    "subject": "art_445",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_445",
+    "predicate": "references",
+    "object": "art_444"
+  },
+  {
+    "subject": "art_445",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_446",
+    "predicate": "references",
+    "object": "art_444"
+  },
+  {
+    "subject": "art_446",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_447",
+    "predicate": "references",
+    "object": "art_441"
+  },
+  {
+    "subject": "art_447",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_448",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_448",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4481",
+    "predicate": "references",
+    "object": "art_339"
+  },
+  {
+    "subject": "art_4481",
+    "predicate": "references",
+    "object": "art_344"
+  },
+  {
+    "subject": "art_4481",
+    "predicate": "references",
+    "object": "art_345"
+  },
+  {
+    "subject": "art_4481",
+    "predicate": "references",
+    "object": "art_346"
+  },
+  {
+    "subject": "art_4481",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_4481",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4482",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_4482",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4483",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_4483",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_340"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_343"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_344"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_356"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_357"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_358"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_362"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_367"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_375"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_383"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_3856"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_391"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_394"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_397"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_402"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_404"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_406"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_414"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_41411"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_41416"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_4143"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_4148"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_4161"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_421"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_424"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_426"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_427"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_428"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_429"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_430"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_431"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_435"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_436"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_444"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_4441"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "references",
+    "object": "art_452"
+  },
+  {
+    "subject": "art_449",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_450",
+    "predicate": "references",
+    "object": "art_449"
+  },
+  {
+    "subject": "art_450",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_451",
+    "predicate": "references",
+    "object": "art_449"
+  },
+  {
+    "subject": "art_451",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_4511",
+    "predicate": "references",
+    "object": "art_449"
+  },
+  {
+    "subject": "art_4511",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_452",
+    "predicate": "references",
+    "object": "art_345"
+  },
+  {
+    "subject": "art_452",
+    "predicate": "references",
+    "object": "art_355"
+  },
+  {
+    "subject": "art_452",
+    "predicate": "references",
+    "object": "art_425"
+  },
+  {
+    "subject": "art_452",
+    "predicate": "references",
+    "object": "art_427"
+  },
+  {
+    "subject": "art_452",
+    "predicate": "references",
+    "object": "art_430"
+  },
+  {
+    "subject": "art_452",
+    "predicate": "references",
+    "object": "art_439"
+  },
+  {
+    "subject": "art_452",
+    "predicate": "references",
+    "object": "art_449"
+  },
+  {
+    "subject": "art_452",
+    "predicate": "belongs_to",
+    "object": "accize"
+  },
+  {
+    "subject": "art_453",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_454",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_455",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_456",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_456",
+    "predicate": "references",
+    "object": "art_16"
+  },
+  {
+    "subject": "art_456",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_456",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_457",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_458",
+    "predicate": "references",
+    "object": "art_457"
+  },
+  {
+    "subject": "art_458",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_458",
+    "predicate": "defines_rate",
+    "object": "3%"
+  },
+  {
+    "subject": "art_459",
+    "predicate": "references",
+    "object": "art_457"
+  },
+  {
+    "subject": "art_459",
+    "predicate": "references",
+    "object": "art_458"
+  },
+  {
+    "subject": "art_459",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_459",
+    "predicate": "defines_rate",
+    "object": "3%"
+  },
+  {
+    "subject": "art_460",
+    "predicate": "references",
+    "object": "art_456"
+  },
+  {
+    "subject": "art_460",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_460",
+    "predicate": "defines_rate",
+    "object": "3%"
+  },
+  {
+    "subject": "art_460",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_463",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_464",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_464",
+    "predicate": "references",
+    "object": "art_16"
+  },
+  {
+    "subject": "art_464",
+    "predicate": "references",
+    "object": "art_2"
+  },
+  {
+    "subject": "art_464",
+    "predicate": "references",
+    "object": "art_456"
+  },
+  {
+    "subject": "art_464",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_465",
+    "predicate": "references",
+    "object": "art_457"
+  },
+  {
+    "subject": "art_465",
+    "predicate": "references",
+    "object": "art_464"
+  },
+  {
+    "subject": "art_465",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_466",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_467",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_468",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_469",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_469",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_470",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_471",
+    "predicate": "references",
+    "object": "art_17"
+  },
+  {
+    "subject": "art_471",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_472",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_473",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_474",
+    "predicate": "references",
+    "object": "art_457"
+  },
+  {
+    "subject": "art_474",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_475",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_476",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_476",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_477",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_478",
+    "predicate": "references",
+    "object": "art_477"
+  },
+  {
+    "subject": "art_478",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_479",
+    "predicate": "references",
+    "object": "art_477"
+  },
+  {
+    "subject": "art_479",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_480",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_481",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_481",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_482",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_483",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_484",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_485",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_485",
+    "predicate": "references",
+    "object": "art_484"
+  },
+  {
+    "subject": "art_485",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_486",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_487",
+    "predicate": "references",
+    "object": "art_1"
+  },
+  {
+    "subject": "art_487",
+    "predicate": "references",
+    "object": "art_486"
+  },
+  {
+    "subject": "art_487",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_4871",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_488",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_489",
+    "predicate": "references",
+    "object": "art_494"
+  },
+  {
+    "subject": "art_489",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_4891",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_4891",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_490",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_491",
+    "predicate": "references",
+    "object": "art_470"
+  },
+  {
+    "subject": "art_491",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_492",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_493",
+    "predicate": "references",
+    "object": "art_461"
+  },
+  {
+    "subject": "art_493",
+    "predicate": "references",
+    "object": "art_466"
+  },
+  {
+    "subject": "art_493",
+    "predicate": "references",
+    "object": "art_471"
+  },
+  {
+    "subject": "art_493",
+    "predicate": "references",
+    "object": "art_474"
+  },
+  {
+    "subject": "art_493",
+    "predicate": "references",
+    "object": "art_478"
+  },
+  {
+    "subject": "art_493",
+    "predicate": "references",
+    "object": "art_483"
+  },
+  {
+    "subject": "art_493",
+    "predicate": "references",
+    "object": "art_491"
+  },
+  {
+    "subject": "art_493",
+    "predicate": "references",
+    "object": "art_494"
+  },
+  {
+    "subject": "art_493",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_494",
+    "predicate": "references",
+    "object": "art_470"
+  },
+  {
+    "subject": "art_494",
+    "predicate": "references",
+    "object": "art_486"
+  },
+  {
+    "subject": "art_494",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_495",
+    "predicate": "references",
+    "object": "art_456"
+  },
+  {
+    "subject": "art_495",
+    "predicate": "references",
+    "object": "art_491"
+  },
+  {
+    "subject": "art_495",
+    "predicate": "references",
+    "object": "art_55"
+  },
+  {
+    "subject": "art_495",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_4951",
+    "predicate": "references",
+    "object": "art_462"
+  },
+  {
+    "subject": "art_4951",
+    "predicate": "references",
+    "object": "art_467"
+  },
+  {
+    "subject": "art_4951",
+    "predicate": "references",
+    "object": "art_472"
+  },
+  {
+    "subject": "art_4951",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_4952",
+    "predicate": "references",
+    "object": "art_459"
+  },
+  {
+    "subject": "art_4952",
+    "predicate": "belongs_to",
+    "object": "impozite_locale"
+  },
+  {
+    "subject": "art_498",
+    "predicate": "references",
+    "object": "art_16"
+  },
+  {
+    "subject": "art_498",
+    "predicate": "references",
+    "object": "art_497"
+  },
+  {
+    "subject": "art_498",
+    "predicate": "defines_rate",
+    "object": "5%"
+  },
+  {
+    "subject": "art_499",
+    "predicate": "references",
+    "object": "art_16"
+  },
+  {
+    "subject": "art_499",
+    "predicate": "references",
+    "object": "art_496"
+  },
+  {
+    "subject": "art_499",
+    "predicate": "references",
+    "object": "art_498"
+  },
+  {
+    "subject": "art_499",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_499",
+    "predicate": "defines_rate",
+    "object": "10%"
+  },
+  {
+    "subject": "art_5001",
+    "predicate": "references",
+    "object": "art_453"
+  },
+  {
+    "subject": "art_5001",
+    "predicate": "references",
+    "object": "art_457"
+  },
+  {
+    "subject": "art_5001",
+    "predicate": "references",
+    "object": "art_47"
+  },
+  {
+    "subject": "art_5001",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_5002",
+    "predicate": "references",
+    "object": "art_5001"
+  },
+  {
+    "subject": "art_5002",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_5002",
+    "predicate": "defines_rate",
+    "object": "9%"
+  },
+  {
+    "subject": "art_5002",
+    "predicate": "defines_rate",
+    "object": "9%"
+  },
+  {
+    "subject": "art_5003",
+    "predicate": "references",
+    "object": "art_5001"
+  },
+  {
+    "subject": "art_5003",
+    "predicate": "belongs_to",
+    "object": "tva"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_10"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_12"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_130"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_15"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_16"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_17"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_26"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_4"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_41"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_5"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_7"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_76"
+  },
+  {
+    "subject": "art_502",
+    "predicate": "references",
+    "object": "art_8"
+  },
+  {
+    "subject": "art_503",
+    "predicate": "references",
+    "object": "art_3"
+  },
+  {
+    "subject": "art_503",
+    "predicate": "references",
+    "object": "art_9"
+  }
+]
