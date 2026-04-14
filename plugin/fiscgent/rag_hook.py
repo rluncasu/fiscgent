@@ -89,27 +89,16 @@ def inject_fiscal_context(session_id, user_message, is_first_turn=False, **kwarg
         if not results:
             return None
         
-        context_parts = [
-            "📜 **Context relevant din Codul Fiscal (extras ANAF; injectat automat — "
-            "folosește cod_fiscal_lookup pentru text complet):**\n"
-        ]
+        context_parts = []
         
         for r in results:
             section = r.get("section_path", "")
-            art_num = r.get("article_number", "")
             text_preview = r.get("text", "")[:400]
-            doc_type = r.get("type", "articol")
-            
-            type_label = "📋 Normă" if doc_type == "norma" else "⚖️ Articol"
             
             context_parts.append(
-                f"{type_label} | **{section}**\n"
-                f"{text_preview}...\n"
+                f"{section}\n"
+                f"{text_preview}\n"
             )
-        
-        context_parts.append(
-            "\n*Folosește `cod_fiscal_lookup` pentru textul complet al oricărui articol.*"
-        )
         
         context = "\n".join(context_parts)
         
