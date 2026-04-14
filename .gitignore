@@ -8,3 +8,6 @@ __pycache__/
 *.bak
 .pytest_cache/
 .mypy_cache/
+
+# Local planning / chat exports — not part of the distributable project
+plans/
